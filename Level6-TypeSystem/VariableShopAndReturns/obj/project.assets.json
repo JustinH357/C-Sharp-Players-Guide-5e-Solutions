@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\TheThingNamer3000\\TheThingNamer3000.csproj",
-      "projectName": "TheThingNamer3000",
-      "projectPath": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\TheThingNamer3000\\TheThingNamer3000.csproj",
+      "projectUniqueName": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level6-TypeSystem\\VariableShopAndReturns\\VariableShopAndReturns.csproj",
+      "projectName": "VariableShopAndReturns",
+      "projectPath": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level6-TypeSystem\\VariableShopAndReturns\\VariableShopAndReturns.csproj",
       "packagesPath": "C:\\Users\\herr_\\.nuget\\packages\\",
-      "outputPath": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\TheThingNamer3000\\obj\\",
+      "outputPath": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level6-TypeSystem\\VariableShopAndReturns\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

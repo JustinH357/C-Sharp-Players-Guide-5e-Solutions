@@ -1,8 +1,4 @@
 <Solution>
-  <Folder Name="/Level4-Comments/">
-    <Project Path="TheThingNamer3000/TheThingNamer3000.csproj" />
-  </Folder>
-  <Folder Name="/Level6-TypeSystem/">
-    <Project Path="VariableShopAndReturns/VariableShopAndReturns.csproj" />
-  </Folder>
+  <Project Path="Level4-Comments/TheThingNamer3000/TheThingNamer3000.csproj" Id="532efce1-5e4a-4e6f-abf7-3d3284a51c3d" />
+  <Project Path="Level6-TypeSystem/VariableShopAndReturns/VariableShopAndReturns.csproj" Id="ef359cf7-8450-44f5-ae96-df8c21b58542" />
 </Solution>

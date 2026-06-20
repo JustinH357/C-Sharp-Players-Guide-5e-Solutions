@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B401E7E-7CDA-428B-A54C-77D0F3A3CF90}|VariableShopAndReturns\\VariableShopAndReturns.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\variableshopandreturns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B401E7E-7CDA-428B-A54C-77D0F3A3CF90}|VariableShopAndReturns\\VariableShopAndReturns.csproj|solutionrelative:variableshopandreturns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{532EFCE1-5E4A-4E6F-ABF7-3D3284A51C3D}|Level4-Comments\\TheThingNamer3000\\TheThingNamer3000.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level4-comments\\thethingnamer3000\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532EFCE1-5E4A-4E6F-ABF7-3D3284A51C3D}|Level4-Comments\\TheThingNamer3000\\TheThingNamer3000.csproj|solutionrelative:level4-comments\\thethingnamer3000\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63C5035F-C4E3-42EC-8413-80B3626D0289}|TheThingNamer3000\\TheThingNamer3000.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\thethingnamer3000\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C5035F-C4E3-42EC-8413-80B3626D0289}|TheThingNamer3000\\TheThingNamer3000.csproj|solutionrelative:thethingnamer3000\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EF359CF7-8450-44F5-AE96-DF8C21B58542}|Level6-TypeSystem\\VariableShopAndReturns\\VariableShopAndReturns.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level6-typesystem\\variableshopandreturns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF359CF7-8450-44F5-AE96-DF8C21B58542}|Level6-TypeSystem\\VariableShopAndReturns\\VariableShopAndReturns.csproj|solutionrelative:level6-typesystem\\variableshopandreturns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\VariableShopAndReturns\\Program.cs",
-              "RelativeDocumentMoniker": "VariableShopAndReturns\\Program.cs",
-              "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\VariableShopAndReturns\\Program.cs",
-              "RelativeToolTip": "VariableShopAndReturns\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAADwvxkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-20T01:50:50.002Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\TheThingNamer3000\\Program.cs",
-              "RelativeDocumentMoniker": "TheThingNamer3000\\Program.cs",
-              "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\TheThingNamer3000\\Program.cs",
-              "RelativeToolTip": "TheThingNamer3000\\Program.cs",
+              "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level6-TypeSystem\\VariableShopAndReturns\\Program.cs",
+              "RelativeDocumentMoniker": "Level6-TypeSystem\\VariableShopAndReturns\\Program.cs",
+              "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level6-TypeSystem\\VariableShopAndReturns\\Program.cs",
+              "RelativeToolTip": "Level6-TypeSystem\\VariableShopAndReturns\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T02:16:04.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level4-Comments\\TheThingNamer3000\\Program.cs",
+              "RelativeDocumentMoniker": "Level4-Comments\\TheThingNamer3000\\Program.cs",
+              "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level4-Comments\\TheThingNamer3000\\Program.cs",
+              "RelativeToolTip": "Level4-Comments\\TheThingNamer3000\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-20T01:45:08.902Z",
+              "WhenOpened": "2026-06-20T02:13:55.137Z",
               "EditorCaption": ""
             }
           ]
