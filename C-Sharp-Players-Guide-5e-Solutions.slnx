@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Level4-Comments/">
+    <Project Path="TheThingNamer3000/TheThingNamer3000.csproj" />
+  </Folder>
+  <Folder Name="/Level6-TypeSystem/">
+    <Project Path="VariableShopAndReturns/VariableShopAndReturns.csproj" />
+  </Folder>
+</Solution>
