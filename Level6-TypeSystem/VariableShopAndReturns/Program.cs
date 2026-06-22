@@ -1,4 +1,6 @@
-﻿int number = 1;
+﻿// challenges variable shop and variable shop returns combined.
+
+int number = 1;
 byte byteNumber = 34;
 short shortNumber = 5039;
 long longNumber = 322912262579;

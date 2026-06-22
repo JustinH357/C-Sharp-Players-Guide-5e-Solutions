@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheThingNamer3000")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddef1f7b9d61094f724badd3e802a388a85d85fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53af96217e21bfad1cd87af82770c77b1b715516")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheThingNamer3000")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheThingNamer3000")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

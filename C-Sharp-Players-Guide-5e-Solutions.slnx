@@ -1,4 +1,21 @@
 <Solution>
+  <Project Path="Level10-Switches/BuyAndDiscountedInventory/BuyAndDiscountedInventory.csproj" Id="a5635972-4dca-4308-81bb-6a05f53d26b5" />
+  <Project Path="Level11-Looping/TheMagicCannon/TheMagicCannon.csproj" Id="13cc1c85-bc41-463e-9dca-df5cf21bcff3" />
+  <Project Path="Level11-Looping/ThePrototype/ThePrototype.csproj" Id="d5de71ee-12e2-4f10-84db-c916a49ddd5b" />
+  <Project Path="Level12-Arrays/TheLawsOfFreach/TheLawsOfFreach.csproj" Id="e3256de4-51bd-44b0-98fd-8893d2f9e36b" />
+  <Project Path="Level12-Arrays/TheReplicatorOfDTo/TheReplicatorOfDTo.csproj" Id="1ea573b6-426b-4ded-ad10-e37b20369fb8" />
+  <Project Path="Level13-Methods/Countdown/Countdown.csproj" Id="808b21e3-a58d-4c22-98e2-2e23c564e658" />
+  <Project Path="Level13-Methods/TakingANumber/TakingANumber.csproj" Id="5fe8d5f9-b8bf-414a-ba0f-efe37e964d9f" />
+  <Project Path="Level14-MemoryManagement/HuntingTheManticore/HuntingTheManticore.csproj" Id="d92c53ca-5d95-43bd-88c4-018004f1e849" />
+  <Project Path="Level16-Enumerations/SimulaTest/SimulaTest.csproj" Id="e63328c4-c1a6-4784-8403-46224ae483a0" />
+  <Project Path="Level17-Tuples/SimulaSoup/SimulaSoup.csproj" Id="51b2d44d-0f48-45b5-b09a-644c509f8061" />
+  <Project Path="Level18-Classes/VinFletcherArrow/VinFletcherArrow.csproj" Id="e3aef9ba-46ea-465b-925e-bd8cda4f1147" />
   <Project Path="Level4-Comments/TheThingNamer3000/TheThingNamer3000.csproj" Id="532efce1-5e4a-4e6f-abf7-3d3284a51c3d" />
   <Project Path="Level6-TypeSystem/VariableShopAndReturns/VariableShopAndReturns.csproj" Id="ef359cf7-8450-44f5-ae96-df8c21b58542" />
+  <Project Path="Level7-Math/TheDominionOfKings/TheDominionOfKings.csproj" Id="4a2b618a-2652-4e16-9500-d84162e2cd55" />
+  <Project Path="Level7-Math/TheFourSistersAndTheDuckbear/TheFourSistersAndTheDuckbear.csproj" Id="b3cd8e2f-77c7-43be-a22a-853c1baccb5c" />
+  <Project Path="Level7-Math/TheTriangleFarmer/TheTriangleFarmer.csproj" Id="3582b46b-bf9b-42c3-96d2-883878e056e1" />
+  <Project Path="Level8-Console/TheDefenseOfConsolas/TheDefenseOfConsolas.csproj" Id="dae71384-84ca-43e7-99b6-24a39db9a751" />
+  <Project Path="Level9-DecisionMaking/RepairingTheClocktower/RepairingTheClocktower.csproj" Id="38ec3ced-e3da-4acf-ae36-c39f5a34136d" />
+  <Project Path="Level9-DecisionMaking/Watchtower/Watchtower.csproj" Id="f0608ed0-3451-49f4-8d52-b171dfa38a2f" />
 </Solution>
