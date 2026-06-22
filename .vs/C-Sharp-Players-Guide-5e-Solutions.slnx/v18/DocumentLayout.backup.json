@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C75C1721-C906-408C-B94D-10ACE838267A}|Level24-CatacombsOfClass\\ThePoint\\ThePoint.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level24-catacombsofclass\\thepoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C75C1721-C906-408C-B94D-10ACE838267A}|Level24-CatacombsOfClass\\ThePoint\\ThePoint.csproj|solutionrelative:level24-catacombsofclass\\thepoint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3AEF9BA-46EA-465B-925E-BD8CDA4F1147}|Level18-Classes\\VinFletcherArrow\\VinFletcherArrow.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level18-classes\\vinfletcherarrow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E3AEF9BA-46EA-465B-925E-BD8CDA4F1147}|Level18-Classes\\VinFletcherArrow\\VinFletcherArrow.csproj|solutionrelative:level18-classes\\vinfletcherarrow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level24-CatacombsOfClass\\ThePoint\\Program.cs",
+              "RelativeDocumentMoniker": "Level24-CatacombsOfClass\\ThePoint\\Program.cs",
+              "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level24-CatacombsOfClass\\ThePoint\\Program.cs*",
+              "RelativeToolTip": "Level24-CatacombsOfClass\\ThePoint\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T21:29:27.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level18-Classes\\VinFletcherArrow\\Program.cs",
               "RelativeDocumentMoniker": "Level18-Classes\\VinFletcherArrow\\Program.cs",
