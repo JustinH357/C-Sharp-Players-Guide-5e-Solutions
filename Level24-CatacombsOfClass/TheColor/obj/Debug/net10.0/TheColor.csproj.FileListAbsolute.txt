@@ -1,0 +1,15 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheColor\bin\Debug\net10.0\TheColor.exe
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheColor\bin\Debug\net10.0\TheColor.deps.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheColor\bin\Debug\net10.0\TheColor.runtimeconfig.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheColor\bin\Debug\net10.0\TheColor.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheColor\bin\Debug\net10.0\TheColor.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheColor\obj\Debug\net10.0\TheColor.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheColor\obj\Debug\net10.0\TheColor.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheColor\obj\Debug\net10.0\TheColor.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheColor\obj\Debug\net10.0\TheColor.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheColor\obj\Debug\net10.0\TheColor.sourcelink.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheColor\obj\Debug\net10.0\TheColor.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheColor\obj\Debug\net10.0\refint\TheColor.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheColor\obj\Debug\net10.0\TheColor.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheColor\obj\Debug\net10.0\TheColor.genruntimeconfig.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheColor\obj\Debug\net10.0\ref\TheColor.dll
