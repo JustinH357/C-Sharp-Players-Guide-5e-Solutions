@@ -1,0 +1,15 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheCard\bin\Debug\net10.0\TheCard.exe
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheCard\bin\Debug\net10.0\TheCard.deps.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheCard\bin\Debug\net10.0\TheCard.runtimeconfig.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheCard\bin\Debug\net10.0\TheCard.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheCard\bin\Debug\net10.0\TheCard.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheCard\obj\Debug\net10.0\TheCard.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheCard\obj\Debug\net10.0\TheCard.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheCard\obj\Debug\net10.0\TheCard.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheCard\obj\Debug\net10.0\TheCard.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheCard\obj\Debug\net10.0\TheCard.sourcelink.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheCard\obj\Debug\net10.0\TheCard.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheCard\obj\Debug\net10.0\refint\TheCard.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheCard\obj\Debug\net10.0\TheCard.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheCard\obj\Debug\net10.0\TheCard.genruntimeconfig.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheCard\obj\Debug\net10.0\ref\TheCard.dll
