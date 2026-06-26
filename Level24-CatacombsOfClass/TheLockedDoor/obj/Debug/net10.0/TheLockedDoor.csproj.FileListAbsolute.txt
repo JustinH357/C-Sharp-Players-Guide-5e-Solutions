@@ -1,0 +1,15 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheLockedDoor\bin\Debug\net10.0\TheLockedDoor.exe
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheLockedDoor\bin\Debug\net10.0\TheLockedDoor.deps.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheLockedDoor\bin\Debug\net10.0\TheLockedDoor.runtimeconfig.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheLockedDoor\bin\Debug\net10.0\TheLockedDoor.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheLockedDoor\bin\Debug\net10.0\TheLockedDoor.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheLockedDoor\obj\Debug\net10.0\TheLockedDoor.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheLockedDoor\obj\Debug\net10.0\TheLockedDoor.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheLockedDoor\obj\Debug\net10.0\TheLockedDoor.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheLockedDoor\obj\Debug\net10.0\TheLockedDoor.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheLockedDoor\obj\Debug\net10.0\TheLockedDoor.sourcelink.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheLockedDoor\obj\Debug\net10.0\TheLockedDoor.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheLockedDoor\obj\Debug\net10.0\refint\TheLockedDoor.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheLockedDoor\obj\Debug\net10.0\TheLockedDoor.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheLockedDoor\obj\Debug\net10.0\TheLockedDoor.genruntimeconfig.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level24-CatacombsOfClass\TheLockedDoor\obj\Debug\net10.0\ref\TheLockedDoor.dll

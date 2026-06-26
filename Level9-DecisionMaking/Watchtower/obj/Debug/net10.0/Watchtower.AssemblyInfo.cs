@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Watchtower")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c45c26f5a02d69d4b054879e84e1baa89e6db0fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2ed130f21a1bc09c7318484afc89e5b6146414e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Watchtower")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Watchtower")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
