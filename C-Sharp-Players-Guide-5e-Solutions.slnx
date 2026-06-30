@@ -13,6 +13,7 @@
   <Project Path="Level24-CatacombsOfClass/TheCard/TheCard.csproj" Id="35e30da4-3c12-401a-8741-80269b82f3a4" />
   <Project Path="Level24-CatacombsOfClass/TheColor/TheColor.csproj" Id="c30d356f-ac1f-4ada-8302-1e98ee558753" />
   <Project Path="Level24-CatacombsOfClass/TheLockedDoor/TheLockedDoor.csproj" Id="41d5e446-475f-45a2-b6bb-89dca0c74769" />
+  <Project Path="Level24-CatacombsOfClass/ThePasswordValidator/ThePasswordValidator.csproj" Id="da897520-7113-47e6-a49e-10b558f9e6a6" />
   <Project Path="Level24-CatacombsOfClass/ThePoint/ThePoint.csproj" Id="c75c1721-c906-408c-b94d-10ace838267a" />
   <Project Path="Level4-Comments/TheThingNamer3000/TheThingNamer3000.csproj" Id="532efce1-5e4a-4e6f-abf7-3d3284a51c3d" />
   <Project Path="Level6-TypeSystem/VariableShopAndReturns/VariableShopAndReturns.csproj" Id="ef359cf7-8450-44f5-ae96-df8c21b58542" />
