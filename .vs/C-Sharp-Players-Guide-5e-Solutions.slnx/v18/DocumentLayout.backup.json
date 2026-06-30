@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41D5E446-475F-45A2-B6BB-89DCA0C74769}|Level24-CatacombsOfClass\\TheLockedDoor\\TheLockedDoor.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level24-catacombsofclass\\thelockeddoor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41D5E446-475F-45A2-B6BB-89DCA0C74769}|Level24-CatacombsOfClass\\TheLockedDoor\\TheLockedDoor.csproj|solutionrelative:level24-catacombsofclass\\thelockeddoor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DA897520-7113-47E6-A49E-10B558F9E6A6}|Level24-CatacombsOfClass\\ThePasswordValidator\\ThePasswordValidator.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level24-catacombsofclass\\thepasswordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA897520-7113-47E6-A49E-10B558F9E6A6}|Level24-CatacombsOfClass\\ThePasswordValidator\\ThePasswordValidator.csproj|solutionrelative:level24-catacombsofclass\\thepasswordvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41D5E446-475F-45A2-B6BB-89DCA0C74769}|Level24-CatacombsOfClass\\TheLockedDoor\\TheLockedDoor.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level24-catacombsofclass\\thelockeddoor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41D5E446-475F-45A2-B6BB-89DCA0C74769}|Level24-CatacombsOfClass\\TheLockedDoor\\TheLockedDoor.csproj|solutionrelative:level24-catacombsofclass\\thelockeddoor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level24-CatacombsOfClass\\TheLockedDoor\\Program.cs",
               "RelativeDocumentMoniker": "Level24-CatacombsOfClass\\TheLockedDoor\\Program.cs",
               "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level24-CatacombsOfClass\\TheLockedDoor\\Program.cs",
               "RelativeToolTip": "Level24-CatacombsOfClass\\TheLockedDoor\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T16:32:59.056Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T16:32:59.056Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level24-CatacombsOfClass\\ThePasswordValidator\\Program.cs",
               "RelativeDocumentMoniker": "Level24-CatacombsOfClass\\ThePasswordValidator\\Program.cs",
               "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level24-CatacombsOfClass\\ThePasswordValidator\\Program.cs",
               "RelativeToolTip": "Level24-CatacombsOfClass\\ThePasswordValidator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-30T15:44:39.852Z",
               "EditorCaption": ""

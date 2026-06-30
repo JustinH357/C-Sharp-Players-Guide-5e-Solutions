@@ -5,7 +5,6 @@
     string password = Console.ReadLine();
 
     passwordValidator = new PasswordValidator(password);
-    passwordValidator.GetPassword(password);
 
     if (passwordValidator.IsValidPassword()) break; // if true stop else continue loop
 }
@@ -23,8 +22,6 @@ class PasswordValidator
     private bool _isCorrectLength;
 
     public PasswordValidator(string password) => Password = password;
-
-    public PasswordValidator GetPassword(string password) => new PasswordValidator(password);
 
     public bool IsValidPassword()
     {
