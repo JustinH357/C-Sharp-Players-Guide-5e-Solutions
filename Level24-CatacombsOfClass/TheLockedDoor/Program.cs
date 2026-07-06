@@ -8,9 +8,7 @@ Console.Clear();
 
 while (true)
 {
-    Door door = new Door(currentCode); // keeps _code up to date with the passcode changes
-
-    Console.WriteLine($"Track door code: {door._code}"); // check if door code is being changes correctly
+    Door door = new Door(currentCode); 
 
     if (currentState == State.Unlock)
         Console.WriteLine("The is now unlocked. What do you want to do?");
@@ -42,24 +40,12 @@ while (true)
 
 class Door
 {
-    // should I not make properties for the different states and leave the code since that is the one that is being saved? 
+    // could make properties for the different states and leave the code since that is the one that is being saved? 
+    // author had a proptery for the state with { get; private set }. It is probably private because we don't want it 
+    // to be access by mistake. 
     public int _code { get; }
-    public State _state { get; }
-    //public State _open { get; }
-    //public State _close { get; }
-    //public State _lock { get; }
-    //public State _unlock { get; }
-
-    // lock seems to be a keyword within VS so made it "Lock" instead
-    // could check for state and passcode and update it within the while loop
-    public Door(int code)
-    {
-        _code = code;
-        //_open = open;
-        //_close = close;
-        //_lock = Lock;
-        //_unlock = unlock;
-    }
+    //public State _state { get; }
+    public Door(int code) => _code = code;
 
     public State DoorState(string answer, State state)
     {
@@ -83,7 +69,6 @@ class Door
     public Door ChangeCode(int newCode) => new Door(newCode);
 }
 
-// not sure if I leave it as enum since I could do String open, etc property
 enum State { Open, Close, Lock , Unlock }
 
 // My Thoughts:

@@ -25,7 +25,7 @@ class PasswordValidator
 
     public bool IsValidPassword()
     {
-        if (Password.Length <13 && Password.Length >= 6) _isCorrectLength = true;
+        if (Password.Length < 13 && Password.Length > 6) _isCorrectLength = true;
 
         foreach (char character in Password)
         {
