@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheReplicatorOfDTo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dbf9d0ba8d23705287df64983208b795132039a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f076e0881445f675d68623e3042124620c3312df")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheReplicatorOfDTo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheReplicatorOfDTo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
