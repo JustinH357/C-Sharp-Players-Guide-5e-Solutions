@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{9A79644B-6A3C-4B7E-B642-05B75961B905}|Level24-CatacombsOfClass\\RockPaperScissors\\RockPaperScissors.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level24-catacombsofclass\\rockpaperscissors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A79644B-6A3C-4B7E-B642-05B75961B905}|Level24-CatacombsOfClass\\RockPaperScissors\\RockPaperScissors.csproj|solutionrelative:level24-catacombsofclass\\rockpaperscissors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A79644B-6A3C-4B7E-B642-05B75961B905}|Level24-CatacombsOfClass\\RockPaperScissors\\RockPaperScissors.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level24-catacombsofclass\\rockpaperscissors\\rps-notes.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{9A79644B-6A3C-4B7E-B642-05B75961B905}|Level24-CatacombsOfClass\\RockPaperScissors\\RockPaperScissors.csproj|solutionrelative:level24-catacombsofclass\\rockpaperscissors\\rps-notes.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RPS-Notes.md",
+              "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level24-CatacombsOfClass\\RockPaperScissors\\RPS-Notes.md",
+              "RelativeDocumentMoniker": "Level24-CatacombsOfClass\\RockPaperScissors\\RPS-Notes.md",
+              "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level24-CatacombsOfClass\\RockPaperScissors\\RPS-Notes.md",
+              "RelativeToolTip": "Level24-CatacombsOfClass\\RockPaperScissors\\RPS-Notes.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-07-13T15:20:43.685Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Level24-CatacombsOfClass\\RockPaperScissors\\Program.cs",
               "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level24-CatacombsOfClass\\RockPaperScissors\\Program.cs",
               "RelativeToolTip": "Level24-CatacombsOfClass\\RockPaperScissors\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-06T18:40:55.589Z",
               "EditorCaption": ""
