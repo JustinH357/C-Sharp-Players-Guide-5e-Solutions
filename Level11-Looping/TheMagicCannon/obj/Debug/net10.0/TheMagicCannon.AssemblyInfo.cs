@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheMagicCannon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f076e0881445f675d68623e3042124620c3312df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef2f6aa4673a5e87e6ed13407d07772cf61a43a4")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheMagicCannon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheMagicCannon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

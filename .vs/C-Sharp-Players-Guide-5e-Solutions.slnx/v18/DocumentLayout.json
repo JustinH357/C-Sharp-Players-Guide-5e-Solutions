@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{599BFD20-05E3-44C8-8B6C-1F75B489E0BC}|Level24-CatacombsOfClass\\15Puzzle\\15Puzzle.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level24-catacombsofclass\\15puzzle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{599BFD20-05E3-44C8-8B6C-1F75B489E0BC}|Level24-CatacombsOfClass\\15Puzzle\\15Puzzle.csproj|solutionrelative:level24-catacombsofclass\\15puzzle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A79644B-6A3C-4B7E-B642-05B75961B905}|Level24-CatacombsOfClass\\RockPaperScissors\\RockPaperScissors.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level24-catacombsofclass\\rockpaperscissors\\rps-notes.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{9A79644B-6A3C-4B7E-B642-05B75961B905}|Level24-CatacombsOfClass\\RockPaperScissors\\RockPaperScissors.csproj|solutionrelative:level24-catacombsofclass\\rockpaperscissors\\rps-notes.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level24-CatacombsOfClass\\15Puzzle\\Program.cs",
+              "RelativeDocumentMoniker": "Level24-CatacombsOfClass\\15Puzzle\\Program.cs",
+              "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level24-CatacombsOfClass\\15Puzzle\\Program.cs",
+              "RelativeToolTip": "Level24-CatacombsOfClass\\15Puzzle\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T22:46:54.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "RPS-Notes.md",
               "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level24-CatacombsOfClass\\RockPaperScissors\\RPS-Notes.md",
               "RelativeDocumentMoniker": "Level24-CatacombsOfClass\\RockPaperScissors\\RPS-Notes.md",
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level24-CatacombsOfClass\\RockPaperScissors\\Program.cs",
               "RelativeDocumentMoniker": "Level24-CatacombsOfClass\\RockPaperScissors\\Program.cs",
@@ -43,8 +60,7 @@
               "RelativeToolTip": "Level24-CatacombsOfClass\\RockPaperScissors\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-06T18:40:55.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-06T18:40:55.589Z"
             }
           ]
         }
