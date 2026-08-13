@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A74AECF0-BE5A-4ED3-BD0C-DE1B1866483B}|Level-24-CatacombsOfClass\\Hangman\\Hangman.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-24-catacombsofclass\\hangman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A74AECF0-BE5A-4ED3-BD0C-DE1B1866483B}|Level-24-CatacombsOfClass\\Hangman\\Hangman.csproj|solutionrelative:level-24-catacombsofclass\\hangman\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A79644B-6A3C-4B7E-B642-05B75961B905}|Level-24-CatacombsOfClass\\RockPaperScissors\\RockPaperScissors.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-24-catacombsofclass\\rockpaperscissors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A79644B-6A3C-4B7E-B642-05B75961B905}|Level-24-CatacombsOfClass\\RockPaperScissors\\RockPaperScissors.csproj|solutionrelative:level-24-catacombsofclass\\rockpaperscissors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE2E1146-187D-46F9-98A4-0588159C1508}|Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Tic-Tac-Toe.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-24-catacombsofclass\\tic-tac-toe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2E1146-187D-46F9-98A4-0588159C1508}|Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Tic-Tac-Toe.csproj|solutionrelative:level-24-catacombsofclass\\tic-tac-toe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-24-CatacombsOfClass\\Hangman\\Program.cs",
-              "RelativeDocumentMoniker": "Level-24-CatacombsOfClass\\Hangman\\Program.cs",
-              "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-24-CatacombsOfClass\\Hangman\\Program.cs",
-              "RelativeToolTip": "Level-24-CatacombsOfClass\\Hangman\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Program.cs",
+              "RelativeDocumentMoniker": "Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Program.cs",
+              "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Program.cs",
+              "RelativeToolTip": "Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-12T21:55:38.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-24-CatacombsOfClass\\RockPaperScissors\\Program.cs",
-              "RelativeDocumentMoniker": "Level-24-CatacombsOfClass\\RockPaperScissors\\Program.cs",
-              "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-24-CatacombsOfClass\\RockPaperScissors\\Program.cs",
-              "RelativeToolTip": "Level-24-CatacombsOfClass\\RockPaperScissors\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-12T21:55:31.538Z",
+              "WhenOpened": "2026-08-13T16:55:32.017Z",
               "EditorCaption": ""
             }
           ]

@@ -1,4 +1,12 @@
 <Solution>
+  <Project Path="Level-04-Comments/TheThingNamer3000/TheThingNamer3000.csproj" Id="532efce1-5e4a-4e6f-abf7-3d3284a51c3d" />
+  <Project Path="Level-06-TypeSystem/VariableShopAndReturns/VariableShopAndReturns.csproj" Id="ef359cf7-8450-44f5-ae96-df8c21b58542" />
+  <Project Path="Level-07-Math/TheDominionOfKings/TheDominionOfKings.csproj" Id="4a2b618a-2652-4e16-9500-d84162e2cd55" />
+  <Project Path="Level-07-Math/TheFourSistersAndTheDuckbear/TheFourSistersAndTheDuckbear.csproj" Id="b3cd8e2f-77c7-43be-a22a-853c1baccb5c" />
+  <Project Path="Level-07-Math/TheTriangleFarmer/TheTriangleFarmer.csproj" Id="3582b46b-bf9b-42c3-96d2-883878e056e1" />
+  <Project Path="Level-08-Console/TheDefenseOfConsolas/TheDefenseOfConsolas.csproj" Id="dae71384-84ca-43e7-99b6-24a39db9a751" />
+  <Project Path="Level-09-DecisionMaking/RepairingTheClocktower/RepairingTheClocktower.csproj" Id="38ec3ced-e3da-4acf-ae36-c39f5a34136d" />
+  <Project Path="Level-09-DecisionMaking/Watchtower/Watchtower.csproj" Id="f0608ed0-3451-49f4-8d52-b171dfa38a2f" />
   <Project Path="Level-10-Switches/BuyAndDiscountedInventory/BuyAndDiscountedInventory.csproj" Id="a5635972-4dca-4308-81bb-6a05f53d26b5" />
   <Project Path="Level-11-Looping/TheMagicCannon/TheMagicCannon.csproj" Id="13cc1c85-bc41-463e-9dca-df5cf21bcff3" />
   <Project Path="Level-11-Looping/ThePrototype/ThePrototype.csproj" Id="d5de71ee-12e2-4f10-84db-c916a49ddd5b" />
@@ -18,12 +26,5 @@
   <Project Path="Level-24-CatacombsOfClass/TheLockedDoor/TheLockedDoor.csproj" Id="41d5e446-475f-45a2-b6bb-89dca0c74769" />
   <Project Path="Level-24-CatacombsOfClass/ThePasswordValidator/ThePasswordValidator.csproj" Id="da897520-7113-47e6-a49e-10b558f9e6a6" />
   <Project Path="Level-24-CatacombsOfClass/ThePoint/ThePoint.csproj" Id="c75c1721-c906-408c-b94d-10ace838267a" />
-  <Project Path="Level-04-Comments/TheThingNamer3000/TheThingNamer3000.csproj" Id="532efce1-5e4a-4e6f-abf7-3d3284a51c3d" />
-  <Project Path="Level-06-TypeSystem/VariableShopAndReturns/VariableShopAndReturns.csproj" Id="ef359cf7-8450-44f5-ae96-df8c21b58542" />
-  <Project Path="Level-07-Math/TheDominionOfKings/TheDominionOfKings.csproj" Id="4a2b618a-2652-4e16-9500-d84162e2cd55" />
-  <Project Path="Level-07-Math/TheFourSistersAndTheDuckbear/TheFourSistersAndTheDuckbear.csproj" Id="b3cd8e2f-77c7-43be-a22a-853c1baccb5c" />
-  <Project Path="Level-07-Math/TheTriangleFarmer/TheTriangleFarmer.csproj" Id="3582b46b-bf9b-42c3-96d2-883878e056e1" />
-  <Project Path="Level-08-Console/TheDefenseOfConsolas/TheDefenseOfConsolas.csproj" Id="dae71384-84ca-43e7-99b6-24a39db9a751" />
-  <Project Path="Level-09-DecisionMaking/RepairingTheClocktower/RepairingTheClocktower.csproj" Id="38ec3ced-e3da-4acf-ae36-c39f5a34136d" />
-  <Project Path="Level-09-DecisionMaking/Watchtower/Watchtower.csproj" Id="f0608ed0-3451-49f4-8d52-b171dfa38a2f" />
+  <Project Path="Level-24-CatacombsOfClass/Tic-Tac-Toe/Tic-Tac-Toe.csproj" Id="ae2e1146-187d-46f9-98a4-0588159c1508" />
 </Solution>
