@@ -4,13 +4,16 @@
     {
         //private Player playerX;
         //private Player playerO;
-        public String PlayerInput { get; }
+        private String PlayerXInput;
+        private String PlayerOInput;
 
-        public Player(String  playerInput)
+        public Player()
         {
-            PlayerInput = playerInput;
+            PlayerXInput = "X";
+            PlayerOInput = "O";
         }
 
-        public String GetPlayerInput() => PlayerInput;
+        public String GetPlayerXInput(string playerX) => PlayerXInput = playerX;
+        public String GetPlayerOInput(string playerY) => PlayerOInput = playerY;
     }
 }

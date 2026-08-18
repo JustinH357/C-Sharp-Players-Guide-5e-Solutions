@@ -1,33 +1,44 @@
 ﻿using Tic_Tac_Toe;
 
 Turn turn = new Turn();
+State state = new State(false);
 
 int count = turn.GetCount();
+
+
+GameStart(); // the grid/board for starting game, out of loop so it doesn't print every time
 
 // Game loop
 while (true)
 {
-    if (count % 2 == 0)
-    {
-        Console.Write("O turn ");
-    }
-    else
-    {
-        Console.Write("X turn ");
-    }
-
-    GameStart();
+    turn.whoseTurn(count);
 
     Console.Write("Pick square? ");
     
     // input test
-    if (turn.GetInput() == "hi")
+    if (turn.isXTurn())
     {
-        Console.WriteLine("yes!");
+        if (turn.GetInput() == "1")
+        {
+
+            Console.WriteLine("   |   |   ");
+            Console.WriteLine("---+---+---");
+            Console.WriteLine("   |   |   ");
+            Console.WriteLine("---+---+---");
+            Console.WriteLine(" X |   |   ");
+        }
     }
-    else
+
+    if (turn.isOTurn())
     {
-        Console.WriteLine("NO!");
+        if (turn.GetInput() == "5")
+        {
+            Console.WriteLine("   |   |   ");
+            Console.WriteLine("---+---+---");
+            Console.WriteLine("   | O |   ");
+            Console.WriteLine("---+---+---");
+            Console.WriteLine("   |   |   ");
+        }
     }
 
     // increment the turns

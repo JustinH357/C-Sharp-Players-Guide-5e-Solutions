@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AE2E1146-187D-46F9-98A4-0588159C1508}|Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Tic-Tac-Toe.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-24-catacombsofclass\\tic-tac-toe\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2E1146-187D-46F9-98A4-0588159C1508}|Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Tic-Tac-Toe.csproj|solutionrelative:level-24-catacombsofclass\\tic-tac-toe\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE2E1146-187D-46F9-98A4-0588159C1508}|Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Tic-Tac-Toe.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-24-catacombsofclass\\tic-tac-toe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE2E1146-187D-46F9-98A4-0588159C1508}|Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Tic-Tac-Toe.csproj|solutionrelative:level-24-catacombsofclass\\tic-tac-toe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE2E1146-187D-46F9-98A4-0588159C1508}|Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Tic-Tac-Toe.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-24-catacombsofclass\\tic-tac-toe\\turn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE2E1146-187D-46F9-98A4-0588159C1508}|Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Tic-Tac-Toe.csproj|solutionrelative:level-24-catacombsofclass\\tic-tac-toe\\turn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE2E1146-187D-46F9-98A4-0588159C1508}|Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Tic-Tac-Toe.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-24-catacombsofclass\\tic-tac-toe\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2E1146-187D-46F9-98A4-0588159C1508}|Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Tic-Tac-Toe.csproj|solutionrelative:level-24-catacombsofclass\\tic-tac-toe\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE2E1146-187D-46F9-98A4-0588159C1508}|Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Tic-Tac-Toe.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-24-catacombsofclass\\tic-tac-toe\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE2E1146-187D-46F9-98A4-0588159C1508}|Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Tic-Tac-Toe.csproj|solutionrelative:level-24-catacombsofclass\\tic-tac-toe\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE2E1146-187D-46F9-98A4-0588159C1508}|Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Tic-Tac-Toe.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-24-catacombsofclass\\tic-tac-toe\\turn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE2E1146-187D-46F9-98A4-0588159C1508}|Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Tic-Tac-Toe.csproj|solutionrelative:level-24-catacombsofclass\\tic-tac-toe\\turn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "State.cs",
+              "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-24-CatacombsOfClass\\Tic-Tac-Toe\\State.cs",
+              "RelativeDocumentMoniker": "Level-24-CatacombsOfClass\\Tic-Tac-Toe\\State.cs",
+              "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-24-CatacombsOfClass\\Tic-Tac-Toe\\State.cs",
+              "RelativeToolTip": "Level-24-CatacombsOfClass\\Tic-Tac-Toe\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-18T19:32:58.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Turn.cs",
               "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Turn.cs",
               "RelativeDocumentMoniker": "Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Turn.cs",
               "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Turn.cs",
               "RelativeToolTip": "Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Turn.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBIAAABwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-14T23:09:03.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Program.cs",
               "RelativeDocumentMoniker": "Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Program.cs",
               "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Program.cs",
               "RelativeToolTip": "Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-13T16:55:32.017Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Player.cs",
               "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Player.cs",
               "RelativeDocumentMoniker": "Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Player.cs",
               "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Player.cs",
               "RelativeToolTip": "Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-14T22:55:59.247Z",
               "EditorCaption": ""
