@@ -2,17 +2,12 @@
 {
     internal class Player
     {
-        //private Player playerX;
-        //private Player playerO;
         private String PlayerXInput;
         private String PlayerOInput;
 
-        public Player()
-        {
-            PlayerXInput = "X";
-            PlayerOInput = "O";
-        }
 
+        // we are setting the player's input not exactly grabbing the string themselves
+        // better to change it to "Set" instead of "Get"
         public String GetPlayerXInput(string playerX) => PlayerXInput = playerX;
         public String GetPlayerOInput(string playerY) => PlayerOInput = playerY;
     }

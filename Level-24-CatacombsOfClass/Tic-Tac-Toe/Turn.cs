@@ -2,50 +2,45 @@
 {
     internal class Turn
     {
-        // can count the turns to keep track, odd turns = player X & even turns = player O
         private int count;
-        private bool xTurn;
-        private bool oTurn;
 
         public Turn()
         {
-            count = 1;
-            xTurn = false;
-            oTurn = false;
+            count = 1; // for X to start first
         }
 
-        public int GetCount() => count;
+        public int Increment() => count++;
 
-        // going to need to get separate inputs or just use player class that has the separate input for X and O
-        public String GetInput()
-        {
-            Player player = new Player();
-
-            if (count % 2 == 0) // even is player O
-            {
-                return player.GetPlayerOInput(Console.ReadLine());
-            }
-            else
-            {
-                return player.GetPlayerXInput(Console.ReadLine());
-            }
-        }
-
-        public void whoseTurn(int count)
+        public void WhoseTurn()
         {
             if (count % 2 == 0)
             {
                 Console.Write("O turn ");
-                oTurn = true;
             }
             else
             {
                 Console.Write("X turn ");
-                xTurn = true;
             }
         }
 
-        public bool isXTurn() => xTurn;
-        public bool isOTurn() => oTurn;
+        public bool IsXTurn()
+        {
+            if (count % 2 != 0)
+            {
+                return true;
+            }
+
+            return false;
+        }
+
+        public bool IsOTurn()
+        {
+            if (count % 2 == 0)
+            {
+                return true;
+            }
+
+            return false;
+        }
     }
 }

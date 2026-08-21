@@ -2,18 +2,117 @@
 {
     internal class State
     {
-        private bool isFill;
+        //private string[,] squares = { { " ", " ", " " }, { " ", " ", " " }, { " ", " ", " " } };
+        private string[,] squares;
 
-        public State(bool isFill)
+        public State()
         {
+            //squares = { { " ", " ", " " }, { " ", " ", " " }, { " ", " ", " " } };
+
+            squares = new string[3,3];
         }
 
-        // want to have some logic that knows what square is filled within the board/grid
-        // my current solution or what i have in mind didn't take into consideration that manually printing the
-        // X and O repeating the grid means it will override whatever options X and O choose. I need a logic that 
-        // can set the X and O within the grid without losing what X or O previous chose for their square last turn
-        // have a few ideas for the logic but thats like a ton of conditional statements and if loops of like 27 different
-        // combinations of the grid/board
+        public void XSelectSquare(string square)
+        {
 
+            if (IsEmpty(square))
+            {
+                
+            }
+
+            if (square == "7")
+            {
+                squares[0, 0] = "X";
+            }
+            if (square == "8")
+            {
+                squares[0, 1] = "X";
+            }
+            if (square == "9")
+            {
+                squares[0, 2] = "X";
+            }
+
+            
+
+        }
+
+        public void OSelectSquare(string square)
+        {
+
+            if (IsEmpty(square))
+            {
+
+            }
+
+
+            if (square == "7")
+            {
+                squares[0, 0] = "O";
+            }
+            if (square == "8")
+            {
+                squares[0, 1] = "O";
+            }
+            if (square == "9")
+            {
+                squares[0, 2] = "O";
+            }
+
+
+            
+        }
+
+        public void GameState()
+        {
+            Console.WriteLine(" ");
+
+            Console.WriteLine(squares[0,0] + "   |" + squares[0,1] + "   |" + squares[0,2]);
+            Console.WriteLine("---+---+---");
+            Console.WriteLine("   |   |   ");
+            Console.WriteLine("---+---+---");
+            Console.WriteLine("   |   |   ");
+
+            Console.WriteLine(" ");
+        }
+
+
+        // logic for a square being filled with X or O, no ideas right now. May have to not do an multi arry but
+        // just individual strings for each square then check if they are empty. I can't really check if
+        // each multi array are empty. Maybe do a for loop to iterate each element I guess?
+
+        // can probably use this to check if all grids are filled to end loop
+        public bool IsSquareFill()
+        {
+            return squares[0, 0] == "O" || squares[0, 0] == "X" ||
+                   squares[0, 1] == "O" || squares[0, 1] == "X" ||
+                   squares[0, 2] == "O" || squares[0, 2] == "X";
+        }
+
+        //public bool IsEmpty()
+        //{
+        //    return squares[0, 0] == " " || squares[0, 0] == " " ||
+        //           squares[0, 1] == " " || squares[0, 1] == " " ||
+        //           squares[0, 2] == " " || squares[0, 2] == " ";
+        //}
+
+        public bool IsEmpty(string square)
+        {
+            if (square == "7" && squares[0, 0] == null)
+            {
+                return true;
+            }
+            if (square == "8" && squares[0, 1] == null)
+            {
+                return true;
+            }
+            if (square == "9" && squares[0, 2] == null)
+            {
+                return true;
+            }
+
+
+            return false;
+        }
     }
 }

@@ -1,58 +1,30 @@
 ﻿using Tic_Tac_Toe;
 
 Turn turn = new Turn();
-State state = new State(false);
+State state = new State();
+Player player = new Player();
 
-int count = turn.GetCount();
 
+// could add a logic that exit the loop once all the squares within the grid is filled
+// then check who the winner is
 
-GameStart(); // the grid/board for starting game, out of loop so it doesn't print every time
-
-// Game loop
 while (true)
 {
-    turn.whoseTurn(count);
+    turn.WhoseTurn();
+
+    state.GameState();
 
     Console.Write("Pick square? ");
-    
-    // input test
-    if (turn.isXTurn())
-    {
-        if (turn.GetInput() == "1")
-        {
 
-            Console.WriteLine("   |   |   ");
-            Console.WriteLine("---+---+---");
-            Console.WriteLine("   |   |   ");
-            Console.WriteLine("---+---+---");
-            Console.WriteLine(" X |   |   ");
-        }
+    if (turn.IsXTurn())
+    {
+        state.XSelectSquare(player.GetPlayerXInput(Console.ReadLine()));
     }
 
-    if (turn.isOTurn())
+    if (turn.IsOTurn())
     {
-        if (turn.GetInput() == "5")
-        {
-            Console.WriteLine("   |   |   ");
-            Console.WriteLine("---+---+---");
-            Console.WriteLine("   | O |   ");
-            Console.WriteLine("---+---+---");
-            Console.WriteLine("   |   |   ");
-        }
+        state.OSelectSquare(player.GetPlayerOInput(Console.ReadLine()));
     }
 
-    // increment the turns
-    count++;
-}
-
-// Display the squares/board
-void GameStart()
-{
-    Console.WriteLine(" "); // spacing
-
-    Console.WriteLine("   |   |   ");
-    Console.WriteLine("---+---+---");
-    Console.WriteLine("   |   |   ");
-    Console.WriteLine("---+---+---");
-    Console.WriteLine("   |   |   ");
+    turn.Increment();
 }
