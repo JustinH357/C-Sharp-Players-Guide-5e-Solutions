@@ -2,65 +2,134 @@
 {
     internal class State
     {
-        //private string[,] squares = { { " ", " ", " " }, { " ", " ", " " }, { " ", " ", " " } };
         private string[,] squares;
+        private bool notEmpty;
 
         public State()
         {
-            //squares = { { " ", " ", " " }, { " ", " ", " " }, { " ", " ", " " } };
-
             squares = new string[3,3];
+            notEmpty = false;
         }
 
         public void XSelectSquare(string square)
         {
+            // using else if loop so the condition to check if a grid IsNotEmpty() first without
+            // triggering the other conditions. 
+            // having the other conditions SquareNotEmpty() to false works but its being repeated multiple times.
+            // must be a better way to handle this. 
 
-            if (IsEmpty(square))
+            if (IsNotEmpty(square))
             {
-                
+                SquareNotEmpty(true);
             }
-
-            if (square == "7")
+            else if(square == "7")
             {
                 squares[0, 0] = "X";
+                SquareNotEmpty(false);
             }
-            if (square == "8")
+            else if(square == "8")
             {
                 squares[0, 1] = "X";
+                SquareNotEmpty(false);
             }
-            if (square == "9")
+            else if(square == "9")
             {
                 squares[0, 2] = "X";
+                SquareNotEmpty(false);
             }
-
-            
-
+            else if (square == "4")
+            {
+                squares[1, 0] = "X";
+                SquareNotEmpty(false);
+            }
+            else if (square == "5")
+            {
+                squares[1, 1] = "X";
+                SquareNotEmpty(false);
+            }
+            else if (square == "6")
+            {
+                squares[1, 2] = "X";
+                SquareNotEmpty(false);
+            }
+            else if (square == "1")
+            {
+                squares[2, 0] = "X";
+                SquareNotEmpty(false);
+            }
+            else if (square == "2")
+            {
+                squares[2, 1] = "X";
+                SquareNotEmpty(false);
+            }
+            else if (square == "3")
+            {
+                squares[2, 2] = "X";
+                SquareNotEmpty(false);
+            }
         }
 
         public void OSelectSquare(string square)
         {
 
-            if (IsEmpty(square))
+            if (IsNotEmpty(square))
             {
-
+                SquareNotEmpty(true);
             }
-
-
-            if (square == "7")
+            else if (square == "7")
             {
                 squares[0, 0] = "O";
+                SquareNotEmpty(false);
             }
-            if (square == "8")
+            else if(square == "8")
             {
                 squares[0, 1] = "O";
+                SquareNotEmpty(false);
             }
-            if (square == "9")
+            else if(square == "9")
             {
                 squares[0, 2] = "O";
+                SquareNotEmpty(false);
+            }
+            else if (square == "4")
+            {
+                squares[1, 0] = "O";
+                SquareNotEmpty(false);
+            }
+            else if (square == "5")
+            {
+                squares[1, 1] = "O";
+                SquareNotEmpty(false);
+            }
+            else if (square == "6")
+            {
+                squares[1, 2] = "O";
+                SquareNotEmpty(false);
+            }
+            else if (square == "1")
+            {
+                squares[2, 0] = "O";
+                SquareNotEmpty(false);
+            }
+            else if (square == "2")
+            {
+                squares[2, 1] = "O";
+                SquareNotEmpty(false);
+            }
+            else if (square == "3")
+            {
+                squares[2, 2] = "O";
+                SquareNotEmpty(false);
+            }
+
+            // separate check instead of repeating squarenotempty false multiple times
+            // need to check if this works
+            if (!IsNotEmpty(square))
+            {
+                SquareNotEmpty(false);
             }
 
 
-            
         }
 
         public void GameState()
@@ -76,43 +145,43 @@
             Console.WriteLine(" ");
         }
 
-
-        // logic for a square being filled with X or O, no ideas right now. May have to not do an multi arry but
-        // just individual strings for each square then check if they are empty. I can't really check if
-        // each multi array are empty. Maybe do a for loop to iterate each element I guess?
-
         // can probably use this to check if all grids are filled to end loop
         public bool IsSquareFill()
         {
-            return squares[0, 0] == "O" || squares[0, 0] == "X" ||
-                   squares[0, 1] == "O" || squares[0, 1] == "X" ||
+            return squares[0, 0] == "O" || squares[0, 0] == "X" &&
+                   squares[0, 1] == "O" || squares[0, 1] == "X" &&
                    squares[0, 2] == "O" || squares[0, 2] == "X";
         }
 
-        //public bool IsEmpty()
-        //{
-        //    return squares[0, 0] == " " || squares[0, 0] == " " ||
-        //           squares[0, 1] == " " || squares[0, 1] == " " ||
-        //           squares[0, 2] == " " || squares[0, 2] == " ";
-        //}
-
-        public bool IsEmpty(string square)
+        public bool IsNotEmpty(string square)
         {
-            if (square == "7" && squares[0, 0] == null)
+            if (square == "7")
             {
-                return true;
+                return squares[0,0] != null;
             }
-            if (square == "8" && squares[0, 1] == null)
+            if (square == "8")
             {
-                return true;
+                return squares[0, 1] != null;
             }
-            if (square == "9" && squares[0, 2] == null)
+            if (square == "9")
             {
-                return true;
+                return squares[0, 2] != null;
             }
 
 
             return false;
         }
+
+        public bool SquareNotEmpty(bool notEmpty)
+        {
+            if (notEmpty)
+            {
+                return this.notEmpty = true;
+            }
+
+            return this.notEmpty = false;
+        }
+
+        public bool GetNotEmpty() => notEmpty;
     }
 }

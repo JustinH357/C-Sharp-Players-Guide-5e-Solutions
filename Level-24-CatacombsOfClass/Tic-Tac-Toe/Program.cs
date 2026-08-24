@@ -26,5 +26,20 @@ while (true)
         state.OSelectSquare(player.GetPlayerOInput(Console.ReadLine()));
     }
 
+    // go back a turn if grid is filled/taken else proceed to the next turn
+    // currently this condition is always true when it detects a filled grid
+
     turn.Increment();
+
+    if (state.GetNotEmpty())
+    {
+        Console.WriteLine("This grid is already taken!");
+        turn.Decrement();
+    }
+
+    // check the turns to see for any bugs
+    Console.WriteLine("Turns: " + turn.GetCount());
+
+    Console.WriteLine("----------------------");
+    
 }

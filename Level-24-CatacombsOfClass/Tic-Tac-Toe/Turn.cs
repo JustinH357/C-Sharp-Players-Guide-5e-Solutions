@@ -11,6 +11,10 @@
 
         public int Increment() => count++;
 
+        public int Decrement() => count--;
+
+        public int GetCount() => count;
+
         public void WhoseTurn()
         {
             if (count % 2 == 0)
