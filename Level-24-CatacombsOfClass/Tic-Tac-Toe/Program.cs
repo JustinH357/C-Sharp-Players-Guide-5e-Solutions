@@ -37,9 +37,15 @@ while (true)
         turn.Decrement();
     }
 
+    if (state.GameOutcome())
+    {
+        break;
+    }
+
     // check the turns to see for any bugs
-    Console.WriteLine("Turns: " + turn.GetCount());
+    //Console.WriteLine("Turns: " + turn.GetCount());
 
     Console.WriteLine("----------------------");
-    
 }
+
+Console.WriteLine("We got a winner!"); // check if break works

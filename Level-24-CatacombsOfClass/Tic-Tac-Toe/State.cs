@@ -138,14 +138,14 @@
 
             Console.WriteLine(squares[0,0] + "   |" + squares[0,1] + "   |" + squares[0,2]);
             Console.WriteLine("---+---+---");
-            Console.WriteLine("   |   |   ");
+            Console.WriteLine(squares[1, 0] + "   |" + squares[1, 1] + "   |" + squares[1, 2]);
             Console.WriteLine("---+---+---");
-            Console.WriteLine("   |   |   ");
+            Console.WriteLine(squares[2, 0] + "   |" + squares[2, 1] + "   |" + squares[2, 2]);
 
             Console.WriteLine(" ");
         }
 
-        // can probably use this to check if all grids are filled to end loop
+        // this method can be determining a draw and will have to change method name
         public bool IsSquareFill()
         {
             return squares[0, 0] == "O" || squares[0, 0] == "X" &&
@@ -183,5 +183,50 @@
         }
 
         public bool GetNotEmpty() => notEmpty;
+
+        // this method have the logic of who won. may have to create a win condition method for X and O separately 
+        // to determine who the winner is at the end. putting them together works but not sure how I will 
+        // make it state who the winner is within this method yet. 
+        public bool GameOutcome()
+        {
+            // conditions to check if the 3 rows horizontally are the same
+            bool topRowO = squares[0,0] == "O" && squares[0,1] == "O" && squares[0, 2] == "O";
+            bool midRowO = squares[1, 0] == "O" && squares[1, 1] == "O" && squares[1, 2] == "O";
+            bool bottomRowO = squares[2, 0] == "O" && squares[2, 1] == "O" && squares[2, 2] == "O";
+
+            bool topRowX = squares[0, 0] == "X" && squares[0, 1] == "X" && squares[0, 2] == "X";
+            bool midRowX = squares[1, 0] == "X" && squares[1, 1] == "X" && squares[1, 2] == "X";
+            bool bottomRowX = squares[2, 0] == "X" && squares[2, 1] == "X" && squares[2, 2] == "X";
+
+            // checking for O win condition
+            if (topRowO)
+            {
+                return true;
+            }
+            if (midRowO)
+            {
+                return true;
+            }
+            if (bottomRowO)
+            {
+                return true;
+            }
+
+            // checking for X win condition
+            if (topRowX)
+            {
+                return true;
+            }
+            if (midRowX)
+            {
+                return true;
+            }
+            if (bottomRowX)
+            {
+                return true;
+            }
+
+            return false;
+        }
     }
 }
