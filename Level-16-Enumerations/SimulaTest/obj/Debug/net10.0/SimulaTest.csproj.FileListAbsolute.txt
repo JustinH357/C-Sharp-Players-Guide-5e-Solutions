@@ -1,0 +1,15 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-16-Enumerations\SimulaTest\bin\Debug\net10.0\SimulaTest.exe
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-16-Enumerations\SimulaTest\bin\Debug\net10.0\SimulaTest.deps.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-16-Enumerations\SimulaTest\bin\Debug\net10.0\SimulaTest.runtimeconfig.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-16-Enumerations\SimulaTest\bin\Debug\net10.0\SimulaTest.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-16-Enumerations\SimulaTest\bin\Debug\net10.0\SimulaTest.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-16-Enumerations\SimulaTest\obj\Debug\net10.0\SimulaTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-16-Enumerations\SimulaTest\obj\Debug\net10.0\SimulaTest.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-16-Enumerations\SimulaTest\obj\Debug\net10.0\SimulaTest.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-16-Enumerations\SimulaTest\obj\Debug\net10.0\SimulaTest.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-16-Enumerations\SimulaTest\obj\Debug\net10.0\SimulaTest.sourcelink.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-16-Enumerations\SimulaTest\obj\Debug\net10.0\SimulaTest.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-16-Enumerations\SimulaTest\obj\Debug\net10.0\refint\SimulaTest.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-16-Enumerations\SimulaTest\obj\Debug\net10.0\SimulaTest.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-16-Enumerations\SimulaTest\obj\Debug\net10.0\SimulaTest.genruntimeconfig.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-16-Enumerations\SimulaTest\obj\Debug\net10.0\ref\SimulaTest.dll

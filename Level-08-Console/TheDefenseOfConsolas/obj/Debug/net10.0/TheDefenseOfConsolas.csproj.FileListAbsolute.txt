@@ -1,0 +1,15 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-08-Console\TheDefenseOfConsolas\bin\Debug\net10.0\TheDefenseOfConsolas.exe
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-08-Console\TheDefenseOfConsolas\bin\Debug\net10.0\TheDefenseOfConsolas.deps.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-08-Console\TheDefenseOfConsolas\bin\Debug\net10.0\TheDefenseOfConsolas.runtimeconfig.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-08-Console\TheDefenseOfConsolas\bin\Debug\net10.0\TheDefenseOfConsolas.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-08-Console\TheDefenseOfConsolas\bin\Debug\net10.0\TheDefenseOfConsolas.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-08-Console\TheDefenseOfConsolas\obj\Debug\net10.0\TheDefenseOfConsolas.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-08-Console\TheDefenseOfConsolas\obj\Debug\net10.0\TheDefenseOfConsolas.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-08-Console\TheDefenseOfConsolas\obj\Debug\net10.0\TheDefenseOfConsolas.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-08-Console\TheDefenseOfConsolas\obj\Debug\net10.0\TheDefenseOfConsolas.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-08-Console\TheDefenseOfConsolas\obj\Debug\net10.0\TheDefenseOfConsolas.sourcelink.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-08-Console\TheDefenseOfConsolas\obj\Debug\net10.0\TheDefenseOfConsolas.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-08-Console\TheDefenseOfConsolas\obj\Debug\net10.0\refint\TheDefenseOfConsolas.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-08-Console\TheDefenseOfConsolas\obj\Debug\net10.0\TheDefenseOfConsolas.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-08-Console\TheDefenseOfConsolas\obj\Debug\net10.0\TheDefenseOfConsolas.genruntimeconfig.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-08-Console\TheDefenseOfConsolas\obj\Debug\net10.0\ref\TheDefenseOfConsolas.dll

@@ -1,0 +1,15 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-11-Looping\TheMagicCannon\bin\Debug\net10.0\TheMagicCannon.exe
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-11-Looping\TheMagicCannon\bin\Debug\net10.0\TheMagicCannon.deps.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-11-Looping\TheMagicCannon\bin\Debug\net10.0\TheMagicCannon.runtimeconfig.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-11-Looping\TheMagicCannon\bin\Debug\net10.0\TheMagicCannon.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-11-Looping\TheMagicCannon\bin\Debug\net10.0\TheMagicCannon.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-11-Looping\TheMagicCannon\obj\Debug\net10.0\TheMagicCannon.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-11-Looping\TheMagicCannon\obj\Debug\net10.0\TheMagicCannon.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-11-Looping\TheMagicCannon\obj\Debug\net10.0\TheMagicCannon.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-11-Looping\TheMagicCannon\obj\Debug\net10.0\TheMagicCannon.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-11-Looping\TheMagicCannon\obj\Debug\net10.0\TheMagicCannon.sourcelink.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-11-Looping\TheMagicCannon\obj\Debug\net10.0\TheMagicCannon.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-11-Looping\TheMagicCannon\obj\Debug\net10.0\refint\TheMagicCannon.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-11-Looping\TheMagicCannon\obj\Debug\net10.0\TheMagicCannon.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-11-Looping\TheMagicCannon\obj\Debug\net10.0\TheMagicCannon.genruntimeconfig.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-11-Looping\TheMagicCannon\obj\Debug\net10.0\ref\TheMagicCannon.dll

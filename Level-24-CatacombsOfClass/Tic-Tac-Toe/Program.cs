@@ -37,6 +37,8 @@ while (true)
         turn.Decrement();
     }
 
+
+    // currently when the winner is determine it doesn't update the board to the grids that have all matching Os or Xs
     if (state.GameOutcome())
     {
         break;

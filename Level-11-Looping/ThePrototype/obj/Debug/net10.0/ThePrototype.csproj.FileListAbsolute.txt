@@ -1,0 +1,5 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-11-Looping\ThePrototype\obj\Debug\net10.0\ThePrototype.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-11-Looping\ThePrototype\obj\Debug\net10.0\ThePrototype.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-11-Looping\ThePrototype\obj\Debug\net10.0\ThePrototype.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-11-Looping\ThePrototype\obj\Debug\net10.0\ThePrototype.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-11-Looping\ThePrototype\obj\Debug\net10.0\ThePrototype.sourcelink.json

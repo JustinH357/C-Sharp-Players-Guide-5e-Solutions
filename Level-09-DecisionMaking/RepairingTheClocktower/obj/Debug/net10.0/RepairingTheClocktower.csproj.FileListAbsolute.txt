@@ -1,0 +1,15 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\RepairingTheClocktower\bin\Debug\net10.0\RepairingTheClocktower.exe
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\RepairingTheClocktower\bin\Debug\net10.0\RepairingTheClocktower.deps.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\RepairingTheClocktower\bin\Debug\net10.0\RepairingTheClocktower.runtimeconfig.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\RepairingTheClocktower\bin\Debug\net10.0\RepairingTheClocktower.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\RepairingTheClocktower\bin\Debug\net10.0\RepairingTheClocktower.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\RepairingTheClocktower\obj\Debug\net10.0\RepairingTheClocktower.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\RepairingTheClocktower\obj\Debug\net10.0\RepairingTheClocktower.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\RepairingTheClocktower\obj\Debug\net10.0\RepairingTheClocktower.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\RepairingTheClocktower\obj\Debug\net10.0\RepairingTheClocktower.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\RepairingTheClocktower\obj\Debug\net10.0\RepairingTheClocktower.sourcelink.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\RepairingTheClocktower\obj\Debug\net10.0\RepairingTheClocktower.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\RepairingTheClocktower\obj\Debug\net10.0\refint\RepairingTheClocktower.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\RepairingTheClocktower\obj\Debug\net10.0\RepairingTheClocktower.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\RepairingTheClocktower\obj\Debug\net10.0\RepairingTheClocktower.genruntimeconfig.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\RepairingTheClocktower\obj\Debug\net10.0\ref\RepairingTheClocktower.dll

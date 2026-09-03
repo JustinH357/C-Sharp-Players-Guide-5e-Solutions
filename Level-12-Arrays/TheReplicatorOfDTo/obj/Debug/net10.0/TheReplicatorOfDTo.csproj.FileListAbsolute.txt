@@ -1,0 +1,15 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-12-Arrays\TheReplicatorOfDTo\bin\Debug\net10.0\TheReplicatorOfDTo.exe
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-12-Arrays\TheReplicatorOfDTo\bin\Debug\net10.0\TheReplicatorOfDTo.deps.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-12-Arrays\TheReplicatorOfDTo\bin\Debug\net10.0\TheReplicatorOfDTo.runtimeconfig.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-12-Arrays\TheReplicatorOfDTo\bin\Debug\net10.0\TheReplicatorOfDTo.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-12-Arrays\TheReplicatorOfDTo\bin\Debug\net10.0\TheReplicatorOfDTo.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-12-Arrays\TheReplicatorOfDTo\obj\Debug\net10.0\TheReplicatorOfDTo.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-12-Arrays\TheReplicatorOfDTo\obj\Debug\net10.0\TheReplicatorOfDTo.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-12-Arrays\TheReplicatorOfDTo\obj\Debug\net10.0\TheReplicatorOfDTo.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-12-Arrays\TheReplicatorOfDTo\obj\Debug\net10.0\TheReplicatorOfDTo.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-12-Arrays\TheReplicatorOfDTo\obj\Debug\net10.0\TheReplicatorOfDTo.sourcelink.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-12-Arrays\TheReplicatorOfDTo\obj\Debug\net10.0\TheReplicatorOfDTo.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-12-Arrays\TheReplicatorOfDTo\obj\Debug\net10.0\refint\TheReplicatorOfDTo.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-12-Arrays\TheReplicatorOfDTo\obj\Debug\net10.0\TheReplicatorOfDTo.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-12-Arrays\TheReplicatorOfDTo\obj\Debug\net10.0\TheReplicatorOfDTo.genruntimeconfig.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-12-Arrays\TheReplicatorOfDTo\obj\Debug\net10.0\ref\TheReplicatorOfDTo.dll

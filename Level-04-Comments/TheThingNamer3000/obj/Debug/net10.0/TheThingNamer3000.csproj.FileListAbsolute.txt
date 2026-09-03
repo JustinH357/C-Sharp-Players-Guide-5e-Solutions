@@ -1,0 +1,15 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-04-Comments\TheThingNamer3000\bin\Debug\net10.0\TheThingNamer3000.exe
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-04-Comments\TheThingNamer3000\bin\Debug\net10.0\TheThingNamer3000.deps.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-04-Comments\TheThingNamer3000\bin\Debug\net10.0\TheThingNamer3000.runtimeconfig.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-04-Comments\TheThingNamer3000\bin\Debug\net10.0\TheThingNamer3000.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-04-Comments\TheThingNamer3000\bin\Debug\net10.0\TheThingNamer3000.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-04-Comments\TheThingNamer3000\obj\Debug\net10.0\TheThingNamer3000.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-04-Comments\TheThingNamer3000\obj\Debug\net10.0\TheThingNamer3000.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-04-Comments\TheThingNamer3000\obj\Debug\net10.0\TheThingNamer3000.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-04-Comments\TheThingNamer3000\obj\Debug\net10.0\TheThingNamer3000.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-04-Comments\TheThingNamer3000\obj\Debug\net10.0\TheThingNamer3000.sourcelink.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-04-Comments\TheThingNamer3000\obj\Debug\net10.0\TheThingNamer3000.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-04-Comments\TheThingNamer3000\obj\Debug\net10.0\refint\TheThingNamer3000.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-04-Comments\TheThingNamer3000\obj\Debug\net10.0\TheThingNamer3000.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-04-Comments\TheThingNamer3000\obj\Debug\net10.0\TheThingNamer3000.genruntimeconfig.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-04-Comments\TheThingNamer3000\obj\Debug\net10.0\ref\TheThingNamer3000.dll

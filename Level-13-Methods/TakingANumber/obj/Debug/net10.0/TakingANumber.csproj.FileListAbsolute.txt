@@ -1,0 +1,15 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-13-Methods\TakingANumber\bin\Debug\net10.0\TakingANumber.exe
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-13-Methods\TakingANumber\bin\Debug\net10.0\TakingANumber.deps.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-13-Methods\TakingANumber\bin\Debug\net10.0\TakingANumber.runtimeconfig.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-13-Methods\TakingANumber\bin\Debug\net10.0\TakingANumber.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-13-Methods\TakingANumber\bin\Debug\net10.0\TakingANumber.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-13-Methods\TakingANumber\obj\Debug\net10.0\TakingANumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-13-Methods\TakingANumber\obj\Debug\net10.0\TakingANumber.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-13-Methods\TakingANumber\obj\Debug\net10.0\TakingANumber.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-13-Methods\TakingANumber\obj\Debug\net10.0\TakingANumber.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-13-Methods\TakingANumber\obj\Debug\net10.0\TakingANumber.sourcelink.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-13-Methods\TakingANumber\obj\Debug\net10.0\TakingANumber.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-13-Methods\TakingANumber\obj\Debug\net10.0\refint\TakingANumber.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-13-Methods\TakingANumber\obj\Debug\net10.0\TakingANumber.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-13-Methods\TakingANumber\obj\Debug\net10.0\TakingANumber.genruntimeconfig.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-13-Methods\TakingANumber\obj\Debug\net10.0\ref\TakingANumber.dll

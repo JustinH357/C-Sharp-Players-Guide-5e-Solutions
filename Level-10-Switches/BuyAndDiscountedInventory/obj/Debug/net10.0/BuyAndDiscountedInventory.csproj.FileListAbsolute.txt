@@ -1,0 +1,15 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-10-Switches\BuyAndDiscountedInventory\bin\Debug\net10.0\BuyAndDiscountedInventory.exe
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-10-Switches\BuyAndDiscountedInventory\bin\Debug\net10.0\BuyAndDiscountedInventory.deps.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-10-Switches\BuyAndDiscountedInventory\bin\Debug\net10.0\BuyAndDiscountedInventory.runtimeconfig.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-10-Switches\BuyAndDiscountedInventory\bin\Debug\net10.0\BuyAndDiscountedInventory.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-10-Switches\BuyAndDiscountedInventory\bin\Debug\net10.0\BuyAndDiscountedInventory.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-10-Switches\BuyAndDiscountedInventory\obj\Debug\net10.0\BuyAndDiscountedInventory.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-10-Switches\BuyAndDiscountedInventory\obj\Debug\net10.0\BuyAndDiscountedInventory.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-10-Switches\BuyAndDiscountedInventory\obj\Debug\net10.0\BuyAndDiscountedInventory.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-10-Switches\BuyAndDiscountedInventory\obj\Debug\net10.0\BuyAndDiscountedInventory.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-10-Switches\BuyAndDiscountedInventory\obj\Debug\net10.0\BuyAndDiscountedInventory.sourcelink.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-10-Switches\BuyAndDiscountedInventory\obj\Debug\net10.0\BuyAndDiscountedInventory.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-10-Switches\BuyAndDiscountedInventory\obj\Debug\net10.0\refint\BuyAndDiscountedInventory.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-10-Switches\BuyAndDiscountedInventory\obj\Debug\net10.0\BuyAndDiscountedInventory.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-10-Switches\BuyAndDiscountedInventory\obj\Debug\net10.0\BuyAndDiscountedInventory.genruntimeconfig.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-10-Switches\BuyAndDiscountedInventory\obj\Debug\net10.0\ref\BuyAndDiscountedInventory.dll

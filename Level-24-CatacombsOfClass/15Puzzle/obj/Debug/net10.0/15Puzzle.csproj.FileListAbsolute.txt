@@ -1,0 +1,5 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-24-CatacombsOfClass\15Puzzle\obj\Debug\net10.0\15Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-24-CatacombsOfClass\15Puzzle\obj\Debug\net10.0\15Puzzle.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-24-CatacombsOfClass\15Puzzle\obj\Debug\net10.0\15Puzzle.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-24-CatacombsOfClass\15Puzzle\obj\Debug\net10.0\15Puzzle.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-24-CatacombsOfClass\15Puzzle\obj\Debug\net10.0\15Puzzle.sourcelink.json

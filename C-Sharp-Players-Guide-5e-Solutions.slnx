@@ -27,4 +27,5 @@
   <Project Path="Level-24-CatacombsOfClass/ThePasswordValidator/ThePasswordValidator.csproj" Id="da897520-7113-47e6-a49e-10b558f9e6a6" />
   <Project Path="Level-24-CatacombsOfClass/ThePoint/ThePoint.csproj" Id="c75c1721-c906-408c-b94d-10ace838267a" />
   <Project Path="Level-24-CatacombsOfClass/Tic-Tac-Toe/Tic-Tac-Toe.csproj" Id="ae2e1146-187d-46f9-98a4-0588159c1508" />
+  <Project Path="Level-25-Inheritance/PackingInventory/PackingInventory.csproj" Id="406a796d-871a-4c6a-9c60-70b6962dd900" />
 </Solution>

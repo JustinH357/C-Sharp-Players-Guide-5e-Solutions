@@ -1,0 +1,15 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheTriangleFarmer\bin\Debug\net10.0\TheTriangleFarmer.exe
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheTriangleFarmer\bin\Debug\net10.0\TheTriangleFarmer.deps.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheTriangleFarmer\bin\Debug\net10.0\TheTriangleFarmer.runtimeconfig.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheTriangleFarmer\bin\Debug\net10.0\TheTriangleFarmer.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheTriangleFarmer\bin\Debug\net10.0\TheTriangleFarmer.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheTriangleFarmer\obj\Debug\net10.0\TheTriangleFarmer.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheTriangleFarmer\obj\Debug\net10.0\TheTriangleFarmer.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheTriangleFarmer\obj\Debug\net10.0\TheTriangleFarmer.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheTriangleFarmer\obj\Debug\net10.0\TheTriangleFarmer.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheTriangleFarmer\obj\Debug\net10.0\TheTriangleFarmer.sourcelink.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheTriangleFarmer\obj\Debug\net10.0\TheTriangleFarmer.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheTriangleFarmer\obj\Debug\net10.0\refint\TheTriangleFarmer.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheTriangleFarmer\obj\Debug\net10.0\TheTriangleFarmer.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheTriangleFarmer\obj\Debug\net10.0\TheTriangleFarmer.genruntimeconfig.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheTriangleFarmer\obj\Debug\net10.0\ref\TheTriangleFarmer.dll

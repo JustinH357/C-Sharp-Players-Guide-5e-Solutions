@@ -1,0 +1,15 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheFourSistersAndTheDuckbear\bin\Debug\net10.0\TheFourSistersAndTheDuckbear.exe
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheFourSistersAndTheDuckbear\bin\Debug\net10.0\TheFourSistersAndTheDuckbear.deps.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheFourSistersAndTheDuckbear\bin\Debug\net10.0\TheFourSistersAndTheDuckbear.runtimeconfig.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheFourSistersAndTheDuckbear\bin\Debug\net10.0\TheFourSistersAndTheDuckbear.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheFourSistersAndTheDuckbear\bin\Debug\net10.0\TheFourSistersAndTheDuckbear.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net10.0\TheFourSistersAndTheDuckbear.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net10.0\TheFourSistersAndTheDuckbear.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net10.0\TheFourSistersAndTheDuckbear.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net10.0\TheFourSistersAndTheDuckbear.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net10.0\TheFourSistersAndTheDuckbear.sourcelink.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net10.0\TheFourSistersAndTheDuckbear.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net10.0\refint\TheFourSistersAndTheDuckbear.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net10.0\TheFourSistersAndTheDuckbear.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net10.0\TheFourSistersAndTheDuckbear.genruntimeconfig.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheFourSistersAndTheDuckbear\obj\Debug\net10.0\ref\TheFourSistersAndTheDuckbear.dll

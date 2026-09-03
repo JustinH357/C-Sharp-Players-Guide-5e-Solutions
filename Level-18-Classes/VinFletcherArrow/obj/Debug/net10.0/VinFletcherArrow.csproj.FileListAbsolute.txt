@@ -1,0 +1,15 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-18-Classes\VinFletcherArrow\bin\Debug\net10.0\VinFletcherArrow.exe
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-18-Classes\VinFletcherArrow\bin\Debug\net10.0\VinFletcherArrow.deps.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-18-Classes\VinFletcherArrow\bin\Debug\net10.0\VinFletcherArrow.runtimeconfig.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-18-Classes\VinFletcherArrow\bin\Debug\net10.0\VinFletcherArrow.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-18-Classes\VinFletcherArrow\bin\Debug\net10.0\VinFletcherArrow.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-18-Classes\VinFletcherArrow\obj\Debug\net10.0\VinFletcherArrow.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-18-Classes\VinFletcherArrow\obj\Debug\net10.0\VinFletcherArrow.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-18-Classes\VinFletcherArrow\obj\Debug\net10.0\VinFletcherArrow.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-18-Classes\VinFletcherArrow\obj\Debug\net10.0\VinFletcherArrow.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-18-Classes\VinFletcherArrow\obj\Debug\net10.0\VinFletcherArrow.sourcelink.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-18-Classes\VinFletcherArrow\obj\Debug\net10.0\VinFletcherArrow.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-18-Classes\VinFletcherArrow\obj\Debug\net10.0\refint\VinFletcherArrow.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-18-Classes\VinFletcherArrow\obj\Debug\net10.0\VinFletcherArrow.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-18-Classes\VinFletcherArrow\obj\Debug\net10.0\VinFletcherArrow.genruntimeconfig.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-18-Classes\VinFletcherArrow\obj\Debug\net10.0\ref\VinFletcherArrow.dll

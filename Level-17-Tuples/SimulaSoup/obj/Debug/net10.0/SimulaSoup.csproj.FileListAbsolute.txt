@@ -1,0 +1,15 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-17-Tuples\SimulaSoup\bin\Debug\net10.0\SimulaSoup.exe
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-17-Tuples\SimulaSoup\bin\Debug\net10.0\SimulaSoup.deps.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-17-Tuples\SimulaSoup\bin\Debug\net10.0\SimulaSoup.runtimeconfig.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-17-Tuples\SimulaSoup\bin\Debug\net10.0\SimulaSoup.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-17-Tuples\SimulaSoup\bin\Debug\net10.0\SimulaSoup.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-17-Tuples\SimulaSoup\obj\Debug\net10.0\SimulaSoup.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-17-Tuples\SimulaSoup\obj\Debug\net10.0\SimulaSoup.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-17-Tuples\SimulaSoup\obj\Debug\net10.0\SimulaSoup.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-17-Tuples\SimulaSoup\obj\Debug\net10.0\SimulaSoup.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-17-Tuples\SimulaSoup\obj\Debug\net10.0\SimulaSoup.sourcelink.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-17-Tuples\SimulaSoup\obj\Debug\net10.0\SimulaSoup.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-17-Tuples\SimulaSoup\obj\Debug\net10.0\refint\SimulaSoup.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-17-Tuples\SimulaSoup\obj\Debug\net10.0\SimulaSoup.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-17-Tuples\SimulaSoup\obj\Debug\net10.0\SimulaSoup.genruntimeconfig.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-17-Tuples\SimulaSoup\obj\Debug\net10.0\ref\SimulaSoup.dll

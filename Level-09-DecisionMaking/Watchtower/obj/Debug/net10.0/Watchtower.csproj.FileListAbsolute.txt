@@ -1,0 +1,15 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\Watchtower\bin\Debug\net10.0\Watchtower.exe
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\Watchtower\bin\Debug\net10.0\Watchtower.deps.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\Watchtower\bin\Debug\net10.0\Watchtower.runtimeconfig.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\Watchtower\bin\Debug\net10.0\Watchtower.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\Watchtower\bin\Debug\net10.0\Watchtower.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\Watchtower\obj\Debug\net10.0\Watchtower.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\Watchtower\obj\Debug\net10.0\Watchtower.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\Watchtower\obj\Debug\net10.0\Watchtower.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\Watchtower\obj\Debug\net10.0\Watchtower.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\Watchtower\obj\Debug\net10.0\Watchtower.sourcelink.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\Watchtower\obj\Debug\net10.0\Watchtower.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\Watchtower\obj\Debug\net10.0\refint\Watchtower.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\Watchtower\obj\Debug\net10.0\Watchtower.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\Watchtower\obj\Debug\net10.0\Watchtower.genruntimeconfig.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-09-DecisionMaking\Watchtower\obj\Debug\net10.0\ref\Watchtower.dll

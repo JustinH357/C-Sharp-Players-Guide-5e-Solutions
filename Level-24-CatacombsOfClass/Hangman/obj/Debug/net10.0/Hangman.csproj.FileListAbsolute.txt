@@ -1,0 +1,5 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-24-CatacombsOfClass\Hangman\obj\Debug\net10.0\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-24-CatacombsOfClass\Hangman\obj\Debug\net10.0\Hangman.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-24-CatacombsOfClass\Hangman\obj\Debug\net10.0\Hangman.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-24-CatacombsOfClass\Hangman\obj\Debug\net10.0\Hangman.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-24-CatacombsOfClass\Hangman\obj\Debug\net10.0\Hangman.sourcelink.json

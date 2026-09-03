@@ -1,0 +1,15 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheDominionOfKings\bin\Debug\net10.0\TheDominionOfKings.exe
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheDominionOfKings\bin\Debug\net10.0\TheDominionOfKings.deps.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheDominionOfKings\bin\Debug\net10.0\TheDominionOfKings.runtimeconfig.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheDominionOfKings\bin\Debug\net10.0\TheDominionOfKings.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheDominionOfKings\bin\Debug\net10.0\TheDominionOfKings.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheDominionOfKings\obj\Debug\net10.0\TheDominionOfKings.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheDominionOfKings\obj\Debug\net10.0\TheDominionOfKings.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheDominionOfKings\obj\Debug\net10.0\TheDominionOfKings.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheDominionOfKings\obj\Debug\net10.0\TheDominionOfKings.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheDominionOfKings\obj\Debug\net10.0\TheDominionOfKings.sourcelink.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheDominionOfKings\obj\Debug\net10.0\TheDominionOfKings.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheDominionOfKings\obj\Debug\net10.0\refint\TheDominionOfKings.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheDominionOfKings\obj\Debug\net10.0\TheDominionOfKings.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheDominionOfKings\obj\Debug\net10.0\TheDominionOfKings.genruntimeconfig.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-07-Math\TheDominionOfKings\obj\Debug\net10.0\ref\TheDominionOfKings.dll

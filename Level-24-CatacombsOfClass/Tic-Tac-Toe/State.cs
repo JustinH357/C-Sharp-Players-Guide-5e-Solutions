@@ -198,7 +198,17 @@
             bool midRowX = squares[1, 0] == "X" && squares[1, 1] == "X" && squares[1, 2] == "X";
             bool bottomRowX = squares[2, 0] == "X" && squares[2, 1] == "X" && squares[2, 2] == "X";
 
-            // checking for O win condition
+            // conditions to check if 3 rows vertically are the same
+            bool topColumnO = squares[0, 0] == "O" && squares[1, 0] == "O" && squares[2, 0] == "O";
+            bool midColumnO = squares[0, 1] == "O" && squares[1, 1] == "O" && squares[2, 1] == "O";
+            bool bottomColumnO = squares[0, 2] == "O" && squares[1, 2] == "O" && squares[2, 2] == "O";
+
+            bool topColumnX = squares[0, 0] == "X" && squares[1, 0] == "X" && squares[2, 0] == "X";
+            bool midColumnX = squares[0, 1] == "X" && squares[1, 1] == "X" && squares[2, 1] == "X";
+            bool bottomColumnX = squares[0, 2] == "X" && squares[1, 2] == "X" && squares[2, 2] == "X";
+
+
+            // checking for O and X win condition horizontally
             if (topRowO)
             {
                 return true;
@@ -212,7 +222,6 @@
                 return true;
             }
 
-            // checking for X win condition
             if (topRowX)
             {
                 return true;
@@ -225,6 +234,35 @@
             {
                 return true;
             }
+
+            // checking for O and X win condition vertically
+            if (topColumnO)
+            {
+                return true;
+            }
+            if (midColumnO)
+            {
+                return true;
+            }
+            if (bottomColumnO)
+            {
+                return true;
+            }
+
+            if (topColumnX)
+            {
+                return true;
+            }
+            if (midColumnX)
+            {
+                return true;
+            }
+            if (bottomColumnX)
+            {
+                return true;
+            }
+
+
 
             return false;
         }
