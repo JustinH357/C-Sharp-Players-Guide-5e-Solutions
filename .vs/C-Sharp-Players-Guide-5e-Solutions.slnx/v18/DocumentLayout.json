@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{406A796D-871A-4C6A-9C60-70B6962DD900}|Level-25-Inheritance\\PackingInventory\\PackingInventory.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-25-inheritance\\packinginventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406A796D-871A-4C6A-9C60-70B6962DD900}|Level-25-Inheritance\\PackingInventory\\PackingInventory.csproj|solutionrelative:level-25-inheritance\\packinginventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{406A796D-871A-4C6A-9C60-70B6962DD900}|Level-25-Inheritance\\PackingInventory\\PackingInventory.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-25-inheritance\\packinginventory\\pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{406A796D-871A-4C6A-9C60-70B6962DD900}|Level-25-Inheritance\\PackingInventory\\PackingInventory.csproj|solutionrelative:level-25-inheritance\\packinginventory\\pack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406A796D-871A-4C6A-9C60-70B6962DD900}|Level-25-Inheritance\\PackingInventory\\PackingInventory.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-25-inheritance\\packinginventory\\foodrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406A796D-871A-4C6A-9C60-70B6962DD900}|Level-25-Inheritance\\PackingInventory\\PackingInventory.csproj|solutionrelative:level-25-inheritance\\packinginventory\\foodrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{406A796D-871A-4C6A-9C60-70B6962DD900}|Level-25-Inheritance\\PackingInventory\\PackingInventory.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-25-inheritance\\packinginventory\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{406A796D-871A-4C6A-9C60-70B6962DD900}|Level-25-Inheritance\\PackingInventory\\PackingInventory.csproj|solutionrelative:level-25-inheritance\\packinginventory\\inventoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{406A796D-871A-4C6A-9C60-70B6962DD900}|Level-25-Inheritance\\PackingInventory\\PackingInventory.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-25-inheritance\\packinginventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{406A796D-871A-4C6A-9C60-70B6962DD900}|Level-25-Inheritance\\PackingInventory\\PackingInventory.csproj|solutionrelative:level-25-inheritance\\packinginventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{406A796D-871A-4C6A-9C60-70B6962DD900}|Level-25-Inheritance\\PackingInventory\\PackingInventory.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-25-inheritance\\packinginventory\\arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{406A796D-871A-4C6A-9C60-70B6962DD900}|Level-25-Inheritance\\PackingInventory\\PackingInventory.csproj|solutionrelative:level-25-inheritance\\packinginventory\\arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{406A796D-871A-4C6A-9C60-70B6962DD900}|Level-25-Inheritance\\PackingInventory\\PackingInventory.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-25-inheritance\\packinginventory\\foodrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{406A796D-871A-4C6A-9C60-70B6962DD900}|Level-25-Inheritance\\PackingInventory\\PackingInventory.csproj|solutionrelative:level-25-inheritance\\packinginventory\\foodrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{406A796D-871A-4C6A-9C60-70B6962DD900}|Level-25-Inheritance\\PackingInventory\\PackingInventory.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-25-inheritance\\packinginventory\\water.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,24 +62,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Pack.cs",
               "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-25-Inheritance\\PackingInventory\\Pack.cs",
               "RelativeDocumentMoniker": "Level-25-Inheritance\\PackingInventory\\Pack.cs",
               "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-25-Inheritance\\PackingInventory\\Pack.cs",
               "RelativeToolTip": "Level-25-Inheritance\\PackingInventory\\Pack.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-03T18:13:26.286Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "FoodRations.cs",
               "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-25-Inheritance\\PackingInventory\\FoodRations.cs",
               "RelativeDocumentMoniker": "Level-25-Inheritance\\PackingInventory\\FoodRations.cs",
@@ -87,7 +87,8 @@
               "RelativeToolTip": "Level-25-Inheritance\\PackingInventory\\FoodRations.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T18:01:10.034Z"
+              "WhenOpened": "2026-09-03T18:01:10.034Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -115,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Arrow.cs",
               "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-25-Inheritance\\PackingInventory\\Arrow.cs",
               "RelativeDocumentMoniker": "Level-25-Inheritance\\PackingInventory\\Arrow.cs",
@@ -123,8 +124,7 @@
               "RelativeToolTip": "Level-25-Inheritance\\PackingInventory\\Arrow.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T17:59:51.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-03T17:59:51.196Z"
             },
             {
               "$type": "Document",
@@ -152,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "InventoryItem.cs",
               "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-25-Inheritance\\PackingInventory\\InventoryItem.cs",
               "RelativeDocumentMoniker": "Level-25-Inheritance\\PackingInventory\\InventoryItem.cs",
@@ -165,13 +165,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-25-Inheritance\\PackingInventory\\Program.cs",
               "RelativeDocumentMoniker": "Level-25-Inheritance\\PackingInventory\\Program.cs",
               "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-25-Inheritance\\PackingInventory\\Program.cs",
               "RelativeToolTip": "Level-25-Inheritance\\PackingInventory\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-03T17:48:58.683Z",
               "EditorCaption": ""

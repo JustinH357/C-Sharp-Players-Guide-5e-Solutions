@@ -1,0 +1,15 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-25-Inheritance\PackingInventory\bin\Debug\net10.0\PackingInventory.exe
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-25-Inheritance\PackingInventory\bin\Debug\net10.0\PackingInventory.deps.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-25-Inheritance\PackingInventory\bin\Debug\net10.0\PackingInventory.runtimeconfig.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-25-Inheritance\PackingInventory\bin\Debug\net10.0\PackingInventory.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-25-Inheritance\PackingInventory\bin\Debug\net10.0\PackingInventory.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-25-Inheritance\PackingInventory\obj\Debug\net10.0\PackingInventory.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-25-Inheritance\PackingInventory\obj\Debug\net10.0\PackingInventory.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-25-Inheritance\PackingInventory\obj\Debug\net10.0\PackingInventory.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-25-Inheritance\PackingInventory\obj\Debug\net10.0\PackingInventory.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-25-Inheritance\PackingInventory\obj\Debug\net10.0\PackingInventory.sourcelink.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-25-Inheritance\PackingInventory\obj\Debug\net10.0\PackingInventory.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-25-Inheritance\PackingInventory\obj\Debug\net10.0\refint\PackingInventory.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-25-Inheritance\PackingInventory\obj\Debug\net10.0\PackingInventory.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-25-Inheritance\PackingInventory\obj\Debug\net10.0\PackingInventory.genruntimeconfig.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-25-Inheritance\PackingInventory\obj\Debug\net10.0\ref\PackingInventory.dll

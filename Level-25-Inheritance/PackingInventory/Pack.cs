@@ -2,25 +2,33 @@
 {
     internal class Pack
     {
-        private int totalItem;
-        private double maxWeight;
-        private double maxVolume;
-        private int[] items;
+        public int totalItem { get; }
+        public double maxWeight { get; }
+        public double maxVolume { get; }
+        private InventoryItem[] items;
+
+        public int currentItem { get; set; }
+        public double currentWeight { get; set; }
+        public double currentVolume { get; set; }
 
         public Pack()
         {
-            //totalItem = 3;
             maxWeight = 10;
             maxVolume = 5;
-            items = new int[3];
+            totalItem = 20;
+            items = new InventoryItem[totalItem];
         }
 
         public bool Add(InventoryItem item)
         {
-            if (item._volume == maxVolume || item._weight == maxWeight || items.Length-1 > items.Length)
+            if (currentVolume >= maxVolume || currentWeight >= maxWeight || currentItem >= totalItem)
             {
-                return false; // if exceed max of vol and weight, return false as in can't add no mores
+                return false; 
             }
+
+            currentWeight += item._weight;
+            currentVolume += item._volume;
+            currentItem++;
 
             return true;
         }
