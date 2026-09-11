@@ -22,7 +22,7 @@
             {
                 SquareNotEmpty(true);
             }
-            else if(square == "7")
+            else if (square == "7")
             {
                 squares[0, 0] = "X";
                 SquareNotEmpty(false);
@@ -121,15 +121,6 @@
                 squares[2, 2] = "O";
                 SquareNotEmpty(false);
             }
-
-            // separate check instead of repeating squarenotempty false multiple times
-            // need to check if this works
-            if (!IsNotEmpty(square))
-            {
-                SquareNotEmpty(false);
-            }
-
-
         }
 
         public void GameState()
@@ -148,16 +139,16 @@
         // this method can be determining a draw and will have to change method name
         public bool IsSquareFill()
         {
-            return squares[0, 0] == "O" || squares[0, 0] == "X" &&
-                   squares[0, 1] == "O" || squares[0, 1] == "X" &&
-                   squares[0, 2] == "O" || squares[0, 2] == "X";
+            return squares[0, 0] == "O" || squares[0, 0] == "X" && squares[0, 1] == "O" || squares[0, 1] == "X" && squares[0, 2] == "O" || squares[0, 2] == "X" &&
+                   squares[1, 0] == "O" || squares[1, 0] == "X" && squares[1, 1] == "O" || squares[1, 1] == "X" && squares[1, 2] == "O" || squares[1, 2] == "X" &&
+                   squares[2, 0] == "O" || squares[2, 0] == "X" && squares[2, 1] == "O" || squares[2, 1] == "X" && squares[2, 2] == "O" || squares[2, 2] == "X";
         }
 
         public bool IsNotEmpty(string square)
         {
             if (square == "7")
             {
-                return squares[0,0] != null;
+                return squares[0, 0] != null;
             }
             if (square == "8")
             {
@@ -166,6 +157,30 @@
             if (square == "9")
             {
                 return squares[0, 2] != null;
+            }
+            if (square == "4")
+            {
+                return squares[1, 0] != null;
+            }
+            if (square == "5")
+            {
+                return squares[1, 1] != null;
+            }
+            if (square == "6")
+            {
+                return squares[1, 2] != null;
+            }
+            if (square == "1")
+            {
+                return squares[2, 0] != null;
+            }
+            if (square == "2")
+            {
+                return squares[2, 1] != null;
+            }
+            if (square == "3")
+            {
+                return squares[2, 2] != null;
             }
 
 
@@ -184,9 +199,7 @@
 
         public bool GetNotEmpty() => notEmpty;
 
-        // this method have the logic of who won. may have to create a win condition method for X and O separately 
-        // to determine who the winner is at the end. putting them together works but not sure how I will 
-        // make it state who the winner is within this method yet. 
+        // need to check win condition again. its probably the diagonal condition that is not working correctly.
         public bool GameOutcome()
         {
             // conditions to check if the 3 rows horizontally are the same
@@ -206,6 +219,13 @@
             bool topColumnX = squares[0, 0] == "X" && squares[1, 0] == "X" && squares[2, 0] == "X";
             bool midColumnX = squares[0, 1] == "X" && squares[1, 1] == "X" && squares[2, 1] == "X";
             bool bottomColumnX = squares[0, 2] == "X" && squares[1, 2] == "X" && squares[2, 2] == "X";
+
+            // conditions to check if the grids diagonally are the same
+            bool leftDiagonalO = squares[0, 0] == "O" && squares[1, 1] == "O" && squares[2, 2] == "O";
+            bool rightDiagonalO = squares[0, 2] == "O" && squares[1, 1] == "O" && squares[0, 2] == "O";
+
+            bool leftDiagonalX = squares[0, 0] == "X" && squares[1, 1] == "X" && squares[2, 2] == "X";
+            bool rightDiagonalX = squares[0, 2] == "X" && squares[1, 1] == "X" && squares[0, 2] == "X";
 
 
             // checking for O and X win condition horizontally
@@ -262,7 +282,24 @@
                 return true;
             }
 
+            // checking for O and X win condition diagonally 
+            if (leftDiagonalO)
+            {
+                return true;
+            }
+            if (rightDiagonalO)
+            {
+                return true;
+            }
 
+            if (leftDiagonalX)
+            {
+                return true;
+            }
+            if (rightDiagonalX)
+            {
+                return true;
+            }
 
             return false;
         }

@@ -50,4 +50,5 @@ while (true)
     Console.WriteLine("----------------------");
 }
 
-Console.WriteLine("We got a winner!"); // check if break works
+state.GameState(); // display the final state of the game to see who won or how they won
+Console.WriteLine("We got a winner!"); // check if break works for win condition
