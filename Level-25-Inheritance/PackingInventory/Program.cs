@@ -8,6 +8,12 @@ Water water = new Water();
 Bow bow = new Bow();
 Rope rope = new Rope();
 
+// test ToString to see what it prints for lvl 26 "labeling inventory" challenge
+Console.WriteLine(rope);
+Console.WriteLine(rope.ToString());
+Console.WriteLine(arrow.ToString());
+
+
 int input;
 while (true)
 {
@@ -54,3 +60,6 @@ while (true)
         break;
     }
 }
+
+Console.WriteLine(pack.ToString());
+pack.PrintItems();

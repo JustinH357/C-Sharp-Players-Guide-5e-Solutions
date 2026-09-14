@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheCard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbb7fc502d3a2564c01bf38bce9b728cc96044ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90a84f468cff347fb260a5454797bbd893235925")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheCard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheCard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

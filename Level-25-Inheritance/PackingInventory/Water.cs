@@ -6,5 +6,7 @@
         {
 
         }
+
+        public new string ToString() => "Water";
     }
 }

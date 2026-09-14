@@ -13,3 +13,4 @@ E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-25-Inheritance\PackingInventor
 E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-25-Inheritance\PackingInventory\obj\Debug\net10.0\PackingInventory.pdb
 E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-25-Inheritance\PackingInventory\obj\Debug\net10.0\PackingInventory.genruntimeconfig.cache
 E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-25-Inheritance\PackingInventory\obj\Debug\net10.0\ref\PackingInventory.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-25-Inheritance\PackingInventory\obj\Debug\net10.0\PackingI.7A86822B.Up2Date
