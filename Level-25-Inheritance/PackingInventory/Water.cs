@@ -7,6 +7,6 @@
 
         }
 
-        public new string ToString() => "Water";
+        public override string ToString() => "Water";
     }
 }

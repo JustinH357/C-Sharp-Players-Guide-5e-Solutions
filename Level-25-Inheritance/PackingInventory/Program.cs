@@ -33,6 +33,8 @@ while (true)
                                       $"\nWeight - {pack.currentWeight}/{pack.maxWeight} " +
                                       $"\nVolume - {pack.currentVolume}/{pack.maxVolume} ");
 
+    Console.WriteLine($"Contents: {pack.ToString()}");
+
     Console.WriteLine(" ");
 
     input = Convert.ToInt32(Console.ReadLine());
@@ -61,5 +63,4 @@ while (true)
     }
 }
 
-Console.WriteLine(pack.ToString());
-pack.PrintItems();
+// this challenge was edited for the lvl 26 - labeling inventory challenge

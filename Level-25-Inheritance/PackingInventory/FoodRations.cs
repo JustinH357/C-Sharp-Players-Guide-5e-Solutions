@@ -7,6 +7,6 @@
 
         }
 
-        public new string ToString() => "Food rations";
+        public override string ToString() => "Food rations";
     }
 }

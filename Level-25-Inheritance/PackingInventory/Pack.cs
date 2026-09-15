@@ -1,12 +1,11 @@
 ﻿namespace PackingInventory
-{
+{ 
     internal class Pack
     {
         public int totalItem { get; }
         public double maxWeight { get; }
         public double maxVolume { get; }
         private InventoryItem[] items;
-
         public int currentItem { get; set; }
         public double currentWeight { get; set; }
         public double currentVolume { get; set; }
@@ -26,40 +25,27 @@
                 return false; 
             }
 
+            items[currentItem] = item; // currentItem is being incremented so it works as the index to add the item to array
+
             currentWeight += item._weight;
             currentVolume += item._volume;
             currentItem++;
 
-            
-
             return true;
         }
 
-        // there is nothing added to the items array so can't display whats in it
-        public new string ToString()
+        // works now. it didnt work because I was using the "new" keyword which I was suppose to use "override" keyword
+        // needed to do += the strings to inventory so it can add the strings of each item.ToString() override version
+        // doing ToString() at the element or index works since doing foreach item in items of item.ToString() gives a null error
+        public override string ToString()
         {
-            string inventory = " ";
-            foreach (InventoryItem item in items)
+            string inventory = "";
+            for (int i = 0; i < currentItem; i++)
             {
-                inventory = item + " ";
+                inventory += items[i].ToString() + " "; 
             }
 
-            return $"Pack containing {inventory}";
-        }
-
-        // separate testing 
-        public void PrintItems()
-        {
-            foreach (InventoryItem item in items)
-            {
-                Console.WriteLine(item + " ");
-            }
-            
-            Console.WriteLine(items[1].ToString());
-            Console.WriteLine(items[2].ToString());
-            Console.WriteLine(items[3].ToString());
-            Console.WriteLine(items[4].ToString());
-
+            return inventory;
         }
     }
 }

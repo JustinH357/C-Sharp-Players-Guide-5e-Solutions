@@ -7,6 +7,6 @@
 
         }
 
-        public new string ToString() => "Rope";
+        public override string ToString() => "Rope";
     }
 }

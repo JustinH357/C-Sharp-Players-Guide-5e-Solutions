@@ -7,6 +7,6 @@
 
         }
 
-        public new string ToString() => "Arrow";
+        public override string ToString() => "Arrow";
     }
 }
