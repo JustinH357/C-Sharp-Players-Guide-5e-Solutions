@@ -1,0 +1,16 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-26-Polymorphism\TheOldRobot\bin\Debug\net10.0\TheOldRobot.exe
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-26-Polymorphism\TheOldRobot\bin\Debug\net10.0\TheOldRobot.deps.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-26-Polymorphism\TheOldRobot\bin\Debug\net10.0\TheOldRobot.runtimeconfig.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-26-Polymorphism\TheOldRobot\bin\Debug\net10.0\TheOldRobot.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-26-Polymorphism\TheOldRobot\bin\Debug\net10.0\TheOldRobot.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-26-Polymorphism\TheOldRobot\obj\Debug\net10.0\TheOldRobot.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-26-Polymorphism\TheOldRobot\obj\Debug\net10.0\TheOldRobot.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-26-Polymorphism\TheOldRobot\obj\Debug\net10.0\TheOldRobot.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-26-Polymorphism\TheOldRobot\obj\Debug\net10.0\TheOldRobot.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-26-Polymorphism\TheOldRobot\obj\Debug\net10.0\TheOldRobot.sourcelink.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-26-Polymorphism\TheOldRobot\obj\Debug\net10.0\TheOldRobot.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-26-Polymorphism\TheOldRobot\obj\Debug\net10.0\refint\TheOldRobot.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-26-Polymorphism\TheOldRobot\obj\Debug\net10.0\TheOldRobot.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-26-Polymorphism\TheOldRobot\obj\Debug\net10.0\TheOldRobot.genruntimeconfig.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-26-Polymorphism\TheOldRobot\obj\Debug\net10.0\ref\TheOldRobot.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-26-Polymorphism\TheOldRobot\obj\Debug\net10.0\TheOldRo.926ED89A.Up2Date
