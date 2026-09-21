@@ -50,10 +50,10 @@ public class Robot
     public int X { get; set; }
     public int Y { get; set; }
     public bool IsPowered { get; set; }
-    public RobotCommand?[] Commands { get; } = new RobotCommand?[3]; // ? just means im accepting or expecting null 
+    public IRobotCommand?[] Commands { get; } = new IRobotCommand?[3]; // ? just means im accepting or expecting null 
     public void Run()
     {
-        foreach (RobotCommand? command in Commands)
+        foreach (IRobotCommand? command in Commands)
         {
             command?.Run(this);
             Console.WriteLine($"[{X} {Y} {IsPowered}]");
@@ -61,30 +61,31 @@ public class Robot
     }
 }
 
-public abstract class RobotCommand
+// change to interface for lvl 27 challenge. 
+public interface IRobotCommand
 {
-    public abstract void Run(Robot robot);
+    public void Run(Robot robot);
 }
 
-public class OnCommand : RobotCommand
+public class OnCommand : IRobotCommand
 {
-    public override void Run(Robot robot)
+    public void Run(Robot robot)
     {
         robot.IsPowered = true;
     }
 }
 
-public class OffCommand : RobotCommand
+public class OffCommand : IRobotCommand
 {
-    public override void Run(Robot robot)
+    public void Run(Robot robot)
     {
         robot.IsPowered = false;
     }
 }
 
-public class NorthCommand : RobotCommand
+public class NorthCommand : IRobotCommand
 {
-    public override void Run(Robot robot)
+    public void Run(Robot robot)
     {
         if (robot.IsPowered)
         {
@@ -94,9 +95,9 @@ public class NorthCommand : RobotCommand
     }
 }
 
-public class SouthCommand : RobotCommand
+public class SouthCommand : IRobotCommand
 {
-    public override void Run(Robot robot)
+    public void Run(Robot robot)
     {
         if (robot.IsPowered)
         {
@@ -104,9 +105,9 @@ public class SouthCommand : RobotCommand
         }
     }
 }
-public class WestCommand : RobotCommand
+public class WestCommand : IRobotCommand
 {
-    public override void Run(Robot robot)
+    public void Run(Robot robot)
     {
         if (robot.IsPowered)
         {
@@ -114,9 +115,9 @@ public class WestCommand : RobotCommand
         }
     }
 }
-public class EastCommand : RobotCommand
+public class EastCommand : IRobotCommand
 {
-    public override void Run(Robot robot)
+    public void Run(Robot robot)
     {
         if (robot.IsPowered)
         {
@@ -124,3 +125,9 @@ public class EastCommand : RobotCommand
         }
     }
 }
+
+// Answer this question: Do you feel this is an improvement over using an abstract base class? Why or why not?
+// I would say it is an improvement because it free us the need to override an abstract method since we have an interface
+// that has the method it needs which we can implement to other classes that does it's own thing. The way I see it is that
+// we have a remote control with buttons that is telling the robot what to do base on which command we pick. Simlar to the
+// interface concept. 
