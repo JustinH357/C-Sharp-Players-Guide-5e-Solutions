@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BD1BC5E4-172D-4D04-8705-3EDC06C2E2FD}|Level-26-Polymorphism\\TheOldRobot\\TheOldRobot.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-26-polymorphism\\theoldrobot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD1BC5E4-172D-4D04-8705-3EDC06C2E2FD}|Level-26-Polymorphism\\TheOldRobot\\TheOldRobot.csproj|solutionrelative:level-26-polymorphism\\theoldrobot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{28645A6E-62C5-4B0E-96D8-69F216F8D65A}|Level-28-Structs\\RoomCoordinates\\RoomCoordinates.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-28-structs\\roomcoordinates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28645A6E-62C5-4B0E-96D8-69F216F8D65A}|Level-28-Structs\\RoomCoordinates\\RoomCoordinates.csproj|solutionrelative:level-28-structs\\roomcoordinates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE2E1146-187D-46F9-98A4-0588159C1508}|Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Tic-Tac-Toe.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-24-catacombsofclass\\tic-tac-toe\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-26-Polymorphism\\TheOldRobot\\Program.cs",
-              "RelativeDocumentMoniker": "Level-26-Polymorphism\\TheOldRobot\\Program.cs",
-              "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-26-Polymorphism\\TheOldRobot\\Program.cs*",
-              "RelativeToolTip": "Level-26-Polymorphism\\TheOldRobot\\Program.cs*",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAqwIIAAAA/AAAAAAAAAA==",
+              "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-28-Structs\\RoomCoordinates\\Program.cs",
+              "RelativeDocumentMoniker": "Level-28-Structs\\RoomCoordinates\\Program.cs",
+              "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-28-Structs\\RoomCoordinates\\Program.cs",
+              "RelativeToolTip": "Level-28-Structs\\RoomCoordinates\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-16T15:15:38.554Z",
+              "WhenOpened": "2026-09-23T13:12:55.878Z",
               "EditorCaption": ""
             },
             {
@@ -53,9 +53,10 @@
               "RelativeDocumentMoniker": "Level-24-CatacombsOfClass\\Tic-Tac-Toe\\State.cs",
               "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-24-CatacombsOfClass\\Tic-Tac-Toe\\State.cs",
               "RelativeToolTip": "Level-24-CatacombsOfClass\\Tic-Tac-Toe\\State.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowDQAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwDQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T19:32:58.577Z"
+              "WhenOpened": "2026-08-18T19:32:58.577Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

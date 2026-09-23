@@ -29,4 +29,5 @@
   <Project Path="Level-24-CatacombsOfClass/Tic-Tac-Toe/Tic-Tac-Toe.csproj" Id="ae2e1146-187d-46f9-98a4-0588159c1508" />
   <Project Path="Level-25-Inheritance/PackingInventory/PackingInventory.csproj" Id="406a796d-871a-4c6a-9c60-70b6962dd900" />
   <Project Path="Level-26-Polymorphism/TheOldRobot/TheOldRobot.csproj" Id="bd1bc5e4-172d-4d04-8705-3edc06c2e2fd" />
+  <Project Path="Level-28-Structs/RoomCoordinates/RoomCoordinates.csproj" Id="28645a6e-62c5-4b0e-96d8-69f216f8d65a" />
 </Solution>

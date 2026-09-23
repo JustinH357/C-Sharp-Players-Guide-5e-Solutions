@@ -1,0 +1,16 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-28-Structs\RoomCoordinates\bin\Debug\net10.0\RoomCoordinates.exe
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-28-Structs\RoomCoordinates\bin\Debug\net10.0\RoomCoordinates.deps.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-28-Structs\RoomCoordinates\bin\Debug\net10.0\RoomCoordinates.runtimeconfig.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-28-Structs\RoomCoordinates\bin\Debug\net10.0\RoomCoordinates.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-28-Structs\RoomCoordinates\bin\Debug\net10.0\RoomCoordinates.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-28-Structs\RoomCoordinates\obj\Debug\net10.0\RoomCoordinates.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-28-Structs\RoomCoordinates\obj\Debug\net10.0\RoomCoordinates.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-28-Structs\RoomCoordinates\obj\Debug\net10.0\RoomCoordinates.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-28-Structs\RoomCoordinates\obj\Debug\net10.0\RoomCoordinates.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-28-Structs\RoomCoordinates\obj\Debug\net10.0\RoomCoordinates.sourcelink.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-28-Structs\RoomCoordinates\obj\Debug\net10.0\RoomCoordinates.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-28-Structs\RoomCoordinates\obj\Debug\net10.0\refint\RoomCoordinates.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-28-Structs\RoomCoordinates\obj\Debug\net10.0\RoomCoordinates.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-28-Structs\RoomCoordinates\obj\Debug\net10.0\RoomCoordinates.genruntimeconfig.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-28-Structs\RoomCoordinates\obj\Debug\net10.0\ref\RoomCoordinates.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-28-Structs\RoomCoordinates\obj\Debug\net10.0\RoomCoor.066E9796.Up2Date
