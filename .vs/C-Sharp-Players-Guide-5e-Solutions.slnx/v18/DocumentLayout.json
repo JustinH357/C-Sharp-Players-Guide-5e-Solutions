@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6C9E8DB5-B808-46C7-9F8E-863B4AA5289F}|Level-29-Records\\WarPreparations\\WarPreparations.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-29-records\\warpreparations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9E8DB5-B808-46C7-9F8E-863B4AA5289F}|Level-29-Records\\WarPreparations\\WarPreparations.csproj|solutionrelative:level-29-records\\warpreparations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{28645A6E-62C5-4B0E-96D8-69F216F8D65A}|Level-28-Structs\\RoomCoordinates\\RoomCoordinates.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-28-structs\\roomcoordinates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{28645A6E-62C5-4B0E-96D8-69F216F8D65A}|Level-28-Structs\\RoomCoordinates\\RoomCoordinates.csproj|solutionrelative:level-28-structs\\roomcoordinates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,6 +40,19 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-29-Records\\WarPreparations\\Program.cs",
+              "RelativeDocumentMoniker": "Level-29-Records\\WarPreparations\\Program.cs",
+              "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-29-Records\\WarPreparations\\Program.cs",
+              "RelativeToolTip": "Level-29-Records\\WarPreparations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-28T16:07:23.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-28-Structs\\RoomCoordinates\\Program.cs",
               "RelativeDocumentMoniker": "Level-28-Structs\\RoomCoordinates\\Program.cs",
               "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-28-Structs\\RoomCoordinates\\Program.cs",
@@ -47,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "State.cs",
               "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-24-CatacombsOfClass\\Tic-Tac-Toe\\State.cs",
               "RelativeDocumentMoniker": "Level-24-CatacombsOfClass\\Tic-Tac-Toe\\State.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "Level-24-CatacombsOfClass\\Tic-Tac-Toe\\State.cs",
               "ViewState": "AgIAAFsAAAAAAAAAAAAcwDQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-18T19:32:58.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-18T19:32:58.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Turn.cs",
               "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Turn.cs",
               "RelativeDocumentMoniker": "Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Turn.cs",
@@ -72,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Program.cs",
               "RelativeDocumentMoniker": "Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Program.cs",
@@ -84,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Player.cs",
               "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Player.cs",
               "RelativeDocumentMoniker": "Level-24-CatacombsOfClass\\Tic-Tac-Toe\\Player.cs",
