@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HuntingTheManticore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2db99338324a318cbb54a7f3f4a2d207d725511b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+831d021bcaf160cc1059e2282eada2046fad5eaf")]
 [assembly: System.Reflection.AssemblyProductAttribute("HuntingTheManticore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HuntingTheManticore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,16 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-30-Generics\ColoredItems\obj\Debug\net10.0\ColoredItems.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-30-Generics\ColoredItems\obj\Debug\net10.0\ColoredItems.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-30-Generics\ColoredItems\obj\Debug\net10.0\ColoredItems.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-30-Generics\ColoredItems\obj\Debug\net10.0\ColoredItems.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-30-Generics\ColoredItems\obj\Debug\net10.0\ColoredItems.sourcelink.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-30-Generics\ColoredItems\bin\Debug\net10.0\ColoredItems.exe
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-30-Generics\ColoredItems\bin\Debug\net10.0\ColoredItems.deps.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-30-Generics\ColoredItems\bin\Debug\net10.0\ColoredItems.runtimeconfig.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-30-Generics\ColoredItems\bin\Debug\net10.0\ColoredItems.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-30-Generics\ColoredItems\bin\Debug\net10.0\ColoredItems.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-30-Generics\ColoredItems\obj\Debug\net10.0\ColoredItems.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-30-Generics\ColoredItems\obj\Debug\net10.0\refint\ColoredItems.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-30-Generics\ColoredItems\obj\Debug\net10.0\ColoredItems.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-30-Generics\ColoredItems\obj\Debug\net10.0\ColoredItems.genruntimeconfig.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-30-Generics\ColoredItems\obj\Debug\net10.0\ref\ColoredItems.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-30-Generics\ColoredItems\obj\Debug\net10.0\ColoredI.1B08A4AD.Up2Date
