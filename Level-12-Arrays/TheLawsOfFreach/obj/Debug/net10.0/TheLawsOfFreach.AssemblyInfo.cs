@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheLawsOfFreach")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+831d021bcaf160cc1059e2282eada2046fad5eaf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef74bb0a18c810e1ae2c9f74baab05aa6cb3674e")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheLawsOfFreach")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheLawsOfFreach")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
