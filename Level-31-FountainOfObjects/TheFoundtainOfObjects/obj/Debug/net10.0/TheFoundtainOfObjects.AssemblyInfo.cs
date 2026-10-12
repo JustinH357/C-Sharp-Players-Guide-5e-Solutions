@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheFoundtainOfObjects")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3eff09ed29a1d9909f56935ad22aa61d1a6e9fd4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1d94d2748c4e9211a6ebf1ac522af39ca4864e7")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheFoundtainOfObjects")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheFoundtainOfObjects")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

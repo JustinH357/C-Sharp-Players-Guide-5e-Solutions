@@ -1,0 +1,16 @@
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-31-FountainOfObjects\TheFoundtainOfObjects\bin\Debug\net10.0\TheFoundtainOfObjects.exe
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-31-FountainOfObjects\TheFoundtainOfObjects\bin\Debug\net10.0\TheFoundtainOfObjects.deps.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-31-FountainOfObjects\TheFoundtainOfObjects\bin\Debug\net10.0\TheFoundtainOfObjects.runtimeconfig.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-31-FountainOfObjects\TheFoundtainOfObjects\bin\Debug\net10.0\TheFoundtainOfObjects.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-31-FountainOfObjects\TheFoundtainOfObjects\bin\Debug\net10.0\TheFoundtainOfObjects.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-31-FountainOfObjects\TheFoundtainOfObjects\obj\Debug\net10.0\TheFoundtainOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-31-FountainOfObjects\TheFoundtainOfObjects\obj\Debug\net10.0\TheFoundtainOfObjects.AssemblyInfoInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-31-FountainOfObjects\TheFoundtainOfObjects\obj\Debug\net10.0\TheFoundtainOfObjects.AssemblyInfo.cs
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-31-FountainOfObjects\TheFoundtainOfObjects\obj\Debug\net10.0\TheFoundtainOfObjects.csproj.CoreCompileInputs.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-31-FountainOfObjects\TheFoundtainOfObjects\obj\Debug\net10.0\TheFoundtainOfObjects.sourcelink.json
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-31-FountainOfObjects\TheFoundtainOfObjects\obj\Debug\net10.0\TheFoundtainOfObjects.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-31-FountainOfObjects\TheFoundtainOfObjects\obj\Debug\net10.0\refint\TheFoundtainOfObjects.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-31-FountainOfObjects\TheFoundtainOfObjects\obj\Debug\net10.0\TheFoundtainOfObjects.pdb
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-31-FountainOfObjects\TheFoundtainOfObjects\obj\Debug\net10.0\TheFoundtainOfObjects.genruntimeconfig.cache
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-31-FountainOfObjects\TheFoundtainOfObjects\obj\Debug\net10.0\ref\TheFoundtainOfObjects.dll
+E:\repos\C-Sharp-Players-Guide-5e-Solutions\Level-31-FountainOfObjects\TheFoundtainOfObjects\obj\Debug\net10.0\TheFound.569AC6CC.Up2Date
