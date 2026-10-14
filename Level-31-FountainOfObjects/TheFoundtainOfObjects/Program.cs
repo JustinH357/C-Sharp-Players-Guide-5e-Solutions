@@ -3,6 +3,7 @@ using TheFoundtainOfObjects;
 
 Story story = new Story();
 Room room = new Room();
+//State roomState = new State();
 
 
 Console.WriteLine(story._intro);
@@ -23,11 +24,13 @@ while (true)
 
     room.Move(playerInput);
 
-    if (room.OutofBound())
+    if (room.OutOfBoundCheck())
     {
         Console.WriteLine("Hey! You can't go that way come back!");
-        room.DecrementOrIncrementRowOrColumn();
+        room.OutOfBoundComeback();
     }
+
+    room.Details();
 
 
     
@@ -35,4 +38,12 @@ while (true)
     Console.WriteLine("------------------------------------------------------------------------");
 }
 
-Console.WriteLine(story._outro);
+// check if the win logic work
+if (State.OutcomeCheck())
+{
+    Console.WriteLine(story._outro);
+}
+else
+{
+    Console.WriteLine("You failed!");
+}

@@ -2,20 +2,15 @@
 {
     internal class Room
     {
-        public int row {  get; set; }
-        public int column { get; set; }
+        public int row {  get; private set; }
+        public int column { get; private set; }
 
         private int[,] rooms;
-        private int entrance;
-        private int fountain;
-        private int[,] matrix;
-
 
         public Room()
         {
             rooms = new int[4, 4]; // 2d array size is 4,4 not 3,3 from my design 
-            entrance = rooms[0,0];
-            fountain = rooms[0,2];
+            //fountain = rooms[0,2];
         }
 
         public void Move(string input)
@@ -43,20 +38,32 @@
             }
         }
 
-        public void Location() // might remove this since I don't see a use for this method
+        public void Details()
         {
+            //State state = new State();
+
+            int fountain = rooms[0, 2]; // lets say fountain is 4
+            int entrance = rooms[0, 0]; // entrance can be 1, and all the others can be default value of 0
+
+            if (rooms[row, column] == fountain) // all the rooms are default value so they all equal the same which makes this condition true
+            {
+                State.isFountainEnable = true;
+                Console.WriteLine($"You found the fountain and enable it! Time to head back to the entrance!");
+            }
+
             if (rooms[row, column] == entrance)
             {
-                Console.WriteLine($"You are in the room at (Row={row}, Column={column})");
+                // can do a count check to know if user went back to the entrance
+                State.isAtEntrance = true; 
             }
         }
 
-        public bool OutofBound()
+        public bool OutOfBoundCheck()
         {
             return row >= rooms.GetLength(0) || row < 0 || column >= rooms.GetLength(1) || column < 0;
         }
 
-        public void DecrementOrIncrementRowOrColumn()
+        public void OutOfBoundComeback()
         {
             if (row < 0) 
             { 
