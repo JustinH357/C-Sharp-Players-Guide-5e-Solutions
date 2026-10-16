@@ -1,18 +1,9 @@
 ﻿namespace TheFoundtainOfObjects
 {
-    internal static class State
+    // might remove this class in general since i can just do the check if player won or not in the room class
+    internal class State
     {
-        public static bool isFountainEnable { get; set; }
-        public static bool isAtEntrance { get; set; }
-
-        public static bool OutcomeCheck()
-        {
-            if (isFountainEnable && isAtEntrance)
-            {
-                return true;
-            }
-
-            return false;
-        }
+        public  bool IsFountainEnable { get; set; }
+        public  bool IsAtEntrance { get; set; }
     }
 }

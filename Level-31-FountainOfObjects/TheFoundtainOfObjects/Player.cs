@@ -2,11 +2,11 @@
 {
     internal class Player
     {
-        public string _input { get; set;  }
+        public string Input { get; set;  }
 
         public Player(string input)
         {
-            _input = input;
+            Input = input;
         }
     }
 }

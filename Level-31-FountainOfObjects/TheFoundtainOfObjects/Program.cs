@@ -3,17 +3,18 @@ using TheFoundtainOfObjects;
 
 Story story = new Story();
 Room room = new Room();
-//State roomState = new State();
+State state = new State();
 
 
-Console.WriteLine(story._intro);
+Console.WriteLine(story.Intro);
 Console.WriteLine();
 Console.WriteLine("------------------------------------------------------------------------");
 
 while (true)
 {
-    Console.WriteLine($"You are in the room at (Row={room.row}, Column={room.column})");
-    
+    Console.WriteLine($"You are in the room at (Row={room.Row}, Column={room.Column})");
+
+    room.Detail(); // move here so it can properly display the details for certain rooms within the right row & column
 
     string playerInput = Console.ReadLine();
 
@@ -30,18 +31,13 @@ while (true)
         room.OutOfBoundComeback();
     }
 
-    room.Details();
-
-
-    
-
     Console.WriteLine("------------------------------------------------------------------------");
 }
 
 // check if the win logic work
-if (State.OutcomeCheck())
+if (room.OutcomeCheck())
 {
-    Console.WriteLine(story._outro);
+    Console.WriteLine(story.Outro);
 }
 else
 {

@@ -2,85 +2,95 @@
 {
     internal class Room
     {
-        public int row {  get; private set; }
-        public int column { get; private set; }
+        public int Row {  get; private set; }
+        public int Column { get; private set; }
+        State state;
 
-        private int[,] rooms;
+        private int[,] _rooms;
 
         public Room()
         {
-            rooms = new int[4, 4]; // 2d array size is 4,4 not 3,3 from my design 
-            //fountain = rooms[0,2];
+            _rooms = new int[4, 4]; // 2d array size is 4,4 not 3,3 from my design 
+            state = new State();
         }
 
         public void Move(string input)
         {
             Player player = new Player(input);
 
-            if (player._input == "move east")
+            if (player.Input == "move east")
             {
-                column++;
+                Column++;
             }
 
-            if (player._input == "move north")
+            if (player.Input == "move north")
             {
-                row--;
+                Row--;
             }
 
-            if (player._input == "move west")
+            if (player.Input == "move west")
             {
-                column--;
+                Column--;
             }
 
-            if (player._input == "move south")
+            if (player.Input == "move south")
             {
-                row++; // can be confusing but moving up a row means going to the next row below since row starts at 0
+                Row++; // can be confusing but moving up a row means going to the next row below since row starts at 0
             }
         }
 
-        public void Details()
+        public void Detail()
         {
-            //State state = new State();
+            // could move these two to the construtor i guess?
+            _rooms[0, 2] = 4; // fountain location
+            _rooms[0, 0] = 1; // entrance location
 
-            int fountain = rooms[0, 2]; // lets say fountain is 4
-            int entrance = rooms[0, 0]; // entrance can be 1, and all the others can be default value of 0
-
-            if (rooms[row, column] == fountain) // all the rooms are default value so they all equal the same which makes this condition true
+            if (_rooms[Row, Column] == 4)
             {
-                State.isFountainEnable = true;
+                state.IsFountainEnable = true;
                 Console.WriteLine($"You found the fountain and enable it! Time to head back to the entrance!");
             }
 
-            if (rooms[row, column] == entrance)
+            if (_rooms[Row, Column] == 1)
             {
                 // can do a count check to know if user went back to the entrance
-                State.isAtEntrance = true; 
+                state.IsAtEntrance = true;
             }
+        }
+
+        public bool OutcomeCheck()
+        {
+            if (state.IsFountainEnable && state.IsAtEntrance)
+            {
+                return true;
+            }
+
+            return false;
         }
 
         public bool OutOfBoundCheck()
         {
-            return row >= rooms.GetLength(0) || row < 0 || column >= rooms.GetLength(1) || column < 0;
+            return Row >= _rooms.GetLength(0) || Row < 0 || Column >= _rooms.GetLength(1) || Column < 0;
         }
 
         public void OutOfBoundComeback()
         {
-            if (row < 0) 
+            if (Row < 0) 
             { 
-                row++; 
+                Row++; 
             }
-            if (row >= rooms.GetLength(0))
+            if (Row >= _rooms.GetLength(0))
             {
-                row--;
+                Row--;
             }
                 
-            if (column < 0)
+            if (Column < 0)
             {
-                column++;
+                Column++;
             }
-            if (column >= rooms.GetLength(1))
+            if (Column >= _rooms.GetLength(1))
             {
-                column--;
+                Column--;
             }
         }
     }

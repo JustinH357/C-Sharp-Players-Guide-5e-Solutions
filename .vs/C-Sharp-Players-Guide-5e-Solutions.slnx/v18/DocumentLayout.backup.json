@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{85591F75-94EA-4C97-B1D2-76D10C8C2AAD}|Level-31-FountainOfObjects\\TheFoundtainOfObjects\\TheFoundtainOfObjects.csproj|solutionrelative:level-31-fountainofobjects\\thefoundtainofobjects\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85591F75-94EA-4C97-B1D2-76D10C8C2AAD}|Level-31-FountainOfObjects\\TheFoundtainOfObjects\\TheFoundtainOfObjects.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-31-fountainofobjects\\thefoundtainofobjects\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85591F75-94EA-4C97-B1D2-76D10C8C2AAD}|Level-31-FountainOfObjects\\TheFoundtainOfObjects\\TheFoundtainOfObjects.csproj|solutionrelative:level-31-fountainofobjects\\thefoundtainofobjects\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{85591F75-94EA-4C97-B1D2-76D10C8C2AAD}|Level-31-FountainOfObjects\\TheFoundtainOfObjects\\TheFoundtainOfObjects.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-31-fountainofobjects\\thefoundtainofobjects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85591F75-94EA-4C97-B1D2-76D10C8C2AAD}|Level-31-FountainOfObjects\\TheFoundtainOfObjects\\TheFoundtainOfObjects.csproj|solutionrelative:level-31-fountainofobjects\\thefoundtainofobjects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85591F75-94EA-4C97-B1D2-76D10C8C2AAD}|Level-31-FountainOfObjects\\TheFoundtainOfObjects\\TheFoundtainOfObjects.csproj|e:\\repos\\c-sharp-players-guide-5e-solutions\\level-31-fountainofobjects\\thefoundtainofobjects\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85591F75-94EA-4C97-B1D2-76D10C8C2AAD}|Level-31-FountainOfObjects\\TheFoundtainOfObjects\\TheFoundtainOfObjects.csproj|solutionrelative:level-31-fountainofobjects\\thefoundtainofobjects\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,22 +38,22 @@
               "Title": "Room.cs",
               "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-31-FountainOfObjects\\TheFoundtainOfObjects\\Room.cs",
               "RelativeDocumentMoniker": "Level-31-FountainOfObjects\\TheFoundtainOfObjects\\Room.cs",
-              "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-31-FountainOfObjects\\TheFoundtainOfObjects\\Room.cs*",
-              "RelativeToolTip": "Level-31-FountainOfObjects\\TheFoundtainOfObjects\\Room.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwDcAAAAAAAAAAAAAAA==",
+              "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-31-FountainOfObjects\\TheFoundtainOfObjects\\Room.cs",
+              "RelativeToolTip": "Level-31-FountainOfObjects\\TheFoundtainOfObjects\\Room.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwDoAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-12T15:33:42.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Player.cs",
               "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-31-FountainOfObjects\\TheFoundtainOfObjects\\Player.cs",
               "RelativeDocumentMoniker": "Level-31-FountainOfObjects\\TheFoundtainOfObjects\\Player.cs",
               "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-31-FountainOfObjects\\TheFoundtainOfObjects\\Player.cs",
               "RelativeToolTip": "Level-31-FountainOfObjects\\TheFoundtainOfObjects\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-12T15:33:31.147Z",
               "EditorCaption": ""
@@ -64,8 +64,8 @@
               "Title": "State.cs",
               "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-31-FountainOfObjects\\TheFoundtainOfObjects\\State.cs",
               "RelativeDocumentMoniker": "Level-31-FountainOfObjects\\TheFoundtainOfObjects\\State.cs",
-              "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-31-FountainOfObjects\\TheFoundtainOfObjects\\State.cs*",
-              "RelativeToolTip": "Level-31-FountainOfObjects\\TheFoundtainOfObjects\\State.cs*",
+              "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-31-FountainOfObjects\\TheFoundtainOfObjects\\State.cs",
+              "RelativeToolTip": "Level-31-FountainOfObjects\\TheFoundtainOfObjects\\State.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-12T15:33:20.037Z",
@@ -73,13 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Story.cs",
               "DocumentMoniker": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-31-FountainOfObjects\\TheFoundtainOfObjects\\Story.cs",
               "RelativeDocumentMoniker": "Level-31-FountainOfObjects\\TheFoundtainOfObjects\\Story.cs",
               "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-31-FountainOfObjects\\TheFoundtainOfObjects\\Story.cs",
               "RelativeToolTip": "Level-31-FountainOfObjects\\TheFoundtainOfObjects\\Story.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-12T15:33:05.709Z",
               "EditorCaption": ""
@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "Level-31-FountainOfObjects\\TheFoundtainOfObjects\\Program.cs",
               "ToolTip": "E:\\repos\\C-Sharp-Players-Guide-5e-Solutions\\Level-31-FountainOfObjects\\TheFoundtainOfObjects\\Program.cs*",
               "RelativeToolTip": "Level-31-FountainOfObjects\\TheFoundtainOfObjects\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-08T17:08:53.01Z",
               "EditorCaption": ""
