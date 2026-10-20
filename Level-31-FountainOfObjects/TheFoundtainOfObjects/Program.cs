@@ -14,8 +14,14 @@ while (true)
 {
     Console.WriteLine($"You are in the room at (Row={room.Row}, Column={room.Column})");
 
-    room.Detail(); // move here so it can properly display the details for certain rooms within the right row & column
+    room.Detail();
 
+    //if (room.PitfallLocation())
+    //{
+    //    break;
+    //}
+
+    Console.Write("What do you want to do? ");
     string playerInput = Console.ReadLine();
 
     if (playerInput == "0")
@@ -23,6 +29,7 @@ while (true)
         break;
     }
 
+    room.EnableOrDisableFountain(playerInput);
     room.Move(playerInput);
 
     if (room.OutOfBoundCheck())
@@ -41,5 +48,5 @@ if (room.OutcomeCheck())
 }
 else
 {
-    Console.WriteLine("You failed!");
+    Console.WriteLine("Try again.");
 }
