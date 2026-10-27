@@ -29,7 +29,6 @@ while (true)
         break;
     }
 
-    room.EnableOrDisableFountain(playerInput);
     room.Move(playerInput);
 
     if (room.OutOfBoundCheck())

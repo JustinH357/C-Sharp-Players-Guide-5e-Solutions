@@ -6,8 +6,8 @@ namespace TheFoundtainOfObjects
     {
         public int Row {  get; private set; }
         public int Column { get; private set; }
-        private State _state;
 
+        private State _state;
         private int[,] _rooms;
 
         public Room()
@@ -39,9 +39,11 @@ namespace TheFoundtainOfObjects
             {
                 Row++; // can be confusing but moving up a row means going to the next row below since row starts at 0
             }
+
+            EnableOrDisableFountain(player.Input);
         }
 
-        public void EnableOrDisableFountain(string input)
+        private void EnableOrDisableFountain(string input)
         {
             Player player = new Player(input); // either make this a field above for more access or leave it like this
 
@@ -53,6 +55,7 @@ namespace TheFoundtainOfObjects
 
         public void Detail()
         {
+            int entranceCount = 0;
             // could move these two to the construtor i guess?
             _rooms[0, 2] = 4; // fountain location
             _rooms[0, 0] = 1; // entrance location
@@ -66,9 +69,19 @@ namespace TheFoundtainOfObjects
 
             if (_rooms[Row, Column] == 1)
             {
+                //int entranceCount = 0;
                 // can do a count check to know if user went back to the entrance
-                _state.IsAtEntrance = true;
-                Console.WriteLine("You see the cavern entrance and you have now enter it.");
+
+                    Console.WriteLine("You see the cavern entrance and you have now enter it.");
+                
+
+                if (entranceCount > 1)
+                {
+                    Console.WriteLine("You came back to the entrance of the cavern and see light.");
+                    _state.IsAtEntrance = true;
+                }
+
+                //entranceCount++; // flag as unnessary assignment need to find another way
             }
         }
 
