@@ -47,5 +47,5 @@ if (room.OutcomeCheck())
 }
 else
 {
-    Console.WriteLine("Try again.");
+    Console.WriteLine("You failed to activate the fountain.");
 }
